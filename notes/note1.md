@@ -33,6 +33,13 @@ permalink: /notes/note1/
 | **胸锁关节**（Sternoclavicular） | 鞍状-球窝 | 唯一连接上肢与躯干的真关节；肩带活动枢纽 | <https://teachmeanatomy.info/upper-limb/joints/sternoclavicular/> |
 | **肩关节 / 肱肩关节**（Glenohumeral） | 球窝滑液关节 | 多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽 | <https://teachmeanatomy.info/upper-limb/joints/shoulder/> |
 
+## 背阔肌（Latissimus Dorsi）
+
+![背阔肌](https://exrx.net/application/files/cache/thumbnails/02ba30f0d7f494096a8087005165c915.png)
+
+- 覆盖中-下背外侧，呈扇形展开  
+- 核心功能：肩关节伸展、内收、内旋；协助下拉躯干与呼吸  
+- ExRx 链接：<https://exrx.net/Muscles/LatissimusDorsi>
 
 ---
 
