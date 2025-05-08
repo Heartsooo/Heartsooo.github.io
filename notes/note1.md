@@ -5,7 +5,6 @@ permalink: /notes/note1/
 ---
 
 <style>
-/* 左侧目录统一风格 */
 #side-toc {
     position: fixed;
     top: 120px;
@@ -36,7 +35,208 @@ permalink: /notes/note1/
 #side-toc a:hover {
     text-decoration: underline;
 }
-/* 让内容整体右移但保留居中 */
+.page-content {
+    padding-left: 260px;
+}
+</style>
+
+<div id="side-toc">
+<strong>📑 目录</strong>
+<ul>
+    <li><a href="#主要肌群带图">主要肌群</a></li>
+    <li><a href="#关键关节带图">关键关节</a></li>
+    <li><a href="#练背训练动作及要领">练背训练动作及要领</a>
+        <ul>
+            <li><a href="#引体向上pull-up">引体向上</a></li>
+            <li><a href="#高位下拉lat-pulldown">高位下拉</a></li>
+            <li><a href="#哑铃划船dumbbell-row">哑铃划船</a></li>
+            <li><a href="#坐姿绳索划船seated-cable-row">坐姿绳索划船</a></li>
+            <li><a href="#硬拉deadlift">硬拉</a></li>
+        </ul>
+    </li>
+</ul>
+</div>
+
+# 练背笔记 · 背部解剖速览
+
+## 🏋️‍♂️ 主要肌群（带图）
+
+（此处省略：保留你已有的肌群段落）
+
+---
+
+## 🦴 关键关节（带图）
+
+（此处省略：保留你已有的关节段落）
+
+---
+
+## 🔥 练背训练动作及要领
+
+### 引体向上（Pull-up）
+
+- **训练部位**：[背阔肌](#背阔肌latissimus-dorsi)、[斜方肌下束](#斜方肌trapezius)、[菱形肌](#菱形肌rhomboid-major--minor)、肱二头肌  
+- **涉及关节**：[肩关节](#肩关节--肱肩关节glenohumeral)、肘关节屈曲、肩胛骨下拉  
+- **建议组数**：4–5 组 × 6–12 次
+
+**要领**：
+- 身体稳定不过分摆动
+- 起始位置肩胛骨下沉、收紧
+- 向上拉时意念集中在背部发力，而非手臂
+
+**常见错误 & 避免**：
+- ❌ 用惯性摆腿 → ✅ 慢速控制、全程发力  
+- ❌ 只用手臂拉 → ✅ 主动收肩、肩胛骨发力先启动  
+- ❌ 顶点位置耸肩 → ✅ 保持肩胛下沉，顶点稳定停顿
+
+---
+
+### 高位下拉（Lat Pulldown）
+
+- **训练部位**：[背阔肌](#背阔肌latissimus-dorsi)、[斜方肌下束](#斜方肌trapezius)、[菱形肌](#菱形肌rhomboid-major--minor)  
+- **涉及关节**：[肩关节](#肩关节--肱肩关节glenohumeral)、肘关节屈曲  
+- **建议组数**：4 组 × 10–15 次
+
+**要领**：
+- 抓握宽度略宽于肩，挺胸收肩
+- 下拉时杠杆触胸而非脖子后侧
+- 全程慢速控制、背部主动发力
+
+**常见错误 & 避免**：
+- ❌ 腰部后仰过多 → ✅ 轻微后仰，核心收紧  
+- ❌ 用手臂拉 → ✅ 先收肩胛，再拉肘  
+- ❌ 弹力冲下 → ✅ 每次下拉顶点停顿，感受背肌收缩
+
+---
+
+### 哑铃划船（Dumbbell Row）
+
+- **训练部位**：[背阔肌](#背阔肌latissimus-dorsi)、[菱形肌](#菱形肌rhomboid-major--minor)、[斜方肌中束](#斜方肌trapezius)、小圆肌  
+- **涉及关节**：[肩关节](#肩关节--肱肩关节glenohumeral)、肩胛骨内收  
+- **建议组数**：4 组 × 10–12 次
+
+**要领**：
+- 膝盖微屈、腰背挺直
+- 下拉过程中肩胛骨主动内收
+- 手肘靠近身体划到腹部侧
+
+**常见错误 & 避免**：
+- ❌ 身体晃动借力 → ✅ 核心收紧、稳定身体  
+- ❌ 划到肩膀高度 → ✅ 手肘贴近身体、发力划到腰  
+- ❌ 耸肩发力 → ✅ 下沉肩膀，感受背肌收缩
+
+---
+
+### 坐姿绳索划船（Seated Cable Row）
+
+- **训练部位**：[背阔肌](#背阔肌latissimus-dorsi)、[菱形肌](#菱形肌rhomboid-major--minor)、[斜方肌中束](#斜方肌trapezius)、[竖脊肌](#竖脊肌erector-spinae)  
+- **涉及关节**：[肩关节](#肩关节--肱肩关节glenohumeral)、肘关节屈曲、肩胛骨内收  
+- **建议组数**：4 组 × 12–15 次
+
+**要领**：
+- 坐直、挺胸收肩
+- 拉时用背肌带动，手臂只是传导力量
+- 控制还原速度，不要完全松掉
+
+**常见错误 & 避免**：
+- ❌ 腰背弓起 → ✅ 挺胸、收肩、核心绷紧  
+- ❌ 只用肘拉 → ✅ 主动用肩胛骨内收带动动作  
+- ❌ 向前拉得太长 → ✅ 保持控制，别超出背肌有效范围
+
+---
+
+### 硬拉（Deadlift）
+
+- **训练部位**：[竖脊肌](#竖脊肌erector-spinae)、臀大肌、股二头肌、[背阔肌](#背阔肌latissimus-dorsi，协同稳定)  
+- **涉及关节**：髋关节伸展、膝关节伸展、脊柱稳定  
+- **建议组数**：4–5 组 × 5–8 次（力量型）
+
+**要领**：
+- 双脚与髋同宽、脚尖略外展
+- 下蹲起始时背部中立，核心收紧
+- 用髋关节主导起身，而非腰弯背拉起
+
+**常见错误 & 避免**：
+- ❌ 弓背拉起 → ✅ 胸部抬起、脊柱中立、核心收紧  
+- ❌ 膝盖内扣 → ✅ 双膝对齐脚尖方向  
+- ❌ 快速拉起落下 → ✅ 控制速度，尤其是负重下放时慢速稳定
+
+---
+
+如果你要，我还可以帮你写：
+✅ 背部拉伸动作  
+✅ 背部力量评估测试  
+✅ 训练进阶建议  
+
+直接说「帮我扩展」就行！💪🌿
+✅ 用法说明
+1️⃣ 直接把这段粘贴进你的 .md 文件末尾。
+2️⃣ 提交并推送到 GitHub 仓库。
+3️⃣ 等待 GitHub Pages 部署更新。
+4️⃣ 刷新网页，检查目录和跳转效果。
+
+需要我帮你生成完整合集版本（把肌群、关节、动作全整理进一份完整文件）吗？随时说！我可以直接打包帮你整理好。💪
+
+
+
+
+
+
+
+您说：
+把这两篇合成一篇 给出完整版的样式和目录 其他的我可以复制过去不用管
+
+
+ChatGPT 说：
+太好了！我来帮你生成：
+
+✅ 完整版结构化样式
+✅ 完整目录（包括肌群、关节、训练动作）
+✅ 完全统一的 Markdown + 左侧目录 + 样式框架
+
+注意：我只给出 页面框架和目录部分，其他细节（比如图片、段落）你可以自己复制拼接进去。
+
+🌿 完整版框架 + 样式 + 总目录
+markdown
+复制
+编辑
+---
+layout: page
+title: 练背笔记
+permalink: /notes/note1/
+---
+
+<style>
+#side-toc {
+    position: fixed;
+    top: 120px;
+    left: 20px;
+    width: 220px;
+    background: #ffffff;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 15px;
+    font-size: 14px;
+    line-height: 1.6;
+    box-shadow: 0 1px 3px rgba(27,31,35,0.12);
+    max-height: 70vh;
+    overflow-y: auto;
+}
+#side-toc ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+#side-toc ul li {
+    margin-bottom: 5px;
+}
+#side-toc a {
+    text-decoration: none;
+    color: #0366d6;
+}
+#side-toc a:hover {
+    text-decoration: underline;
+}
 .page-content {
     padding-left: 260px;
 }
@@ -63,6 +263,15 @@ permalink: /notes/note1/
             <li><a href="#肩锁关节acromioclavicular">肩锁关节</a></li>
             <li><a href="#胸锁关节sternoclavicular">胸锁关节</a></li>
             <li><a href="#肩关节--肱肩关节glenohumeral">肩关节</a></li>
+        </ul>
+    </li>
+    <li><a href="#练背训练动作及要领">练背训练动作及要领</a>
+        <ul>
+            <li><a href="#引体向上pull-up">引体向上</a></li>
+            <li><a href="#高位下拉lat-pulldown">高位下拉</a></li>
+            <li><a href="#哑铃划船dumbbell-row">哑铃划船</a></li>
+            <li><a href="#坐姿绳索划船seated-cable-row">坐姿绳索划船</a></li>
+            <li><a href="#硬拉deadlift">硬拉</a></li>
         </ul>
     </li>
 </ul>
@@ -183,64 +392,6 @@ permalink: /notes/note1/
 - 类型：球窝滑液关节  
 - 功能：多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽  
 - TeachMeAnatomy：<https://teachmeanatomy.info/upper-limb/joints/shoulder/>
----
-layout: page
-title: 练背笔记
-permalink: /notes/note1/
----
-
-<style>
-#side-toc {
-    position: fixed;
-    top: 120px;
-    left: 20px;
-    width: 220px;
-    background: #ffffff;
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 15px;
-    font-size: 14px;
-    line-height: 1.6;
-    box-shadow: 0 1px 3px rgba(27,31,35,0.12);
-    max-height: 70vh;
-    overflow-y: auto;
-}
-#side-toc ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-#side-toc ul li {
-    margin-bottom: 5px;
-}
-#side-toc a {
-    text-decoration: none;
-    color: #0366d6;
-}
-#side-toc a:hover {
-    text-decoration: underline;
-}
-.page-content {
-    padding-left: 260px;
-}
-</style>
-
-<div id="side-toc">
-<strong>📑 目录</strong>
-<ul>
-    <li><a href="#主要肌群带图">主要肌群</a></li>
-    <li><a href="#关键关节带图">关键关节</a></li>
-    <li><a href="#练背训练动作及要领">练背训练动作及要领</a>
-        <ul>
-            <li><a href="#引体向上pull-up">引体向上</a></li>
-            <li><a href="#高位下拉lat-pulldown">高位下拉</a></li>
-            <li><a href="#哑铃划船dumbbell-row">哑铃划船</a></li>
-            <li><a href="#坐姿绳索划船seated-cable-row">坐姿绳索划船</a></li>
-            <li><a href="#硬拉deadlift">硬拉</a></li>
-        </ul>
-    </li>
-</ul>
-</div>
 
 # 练背笔记 · 背部解剖速览
 
