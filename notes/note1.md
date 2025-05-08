@@ -134,6 +134,9 @@ permalink: /notes/note1/
 - ExRx.net：动作数据库  
 - Jeff Nippard YouTube：背部训练解剖与编排  
 - Alan Thrall：硬拉技术视频
+- https://strengthlevel.com/
+- https://www.acefitness.org/resources/everyone/exercise-library/experience/advanced/
+- https://exrx.net/Kinesiology/Posture#Winged
 
 ---
 
