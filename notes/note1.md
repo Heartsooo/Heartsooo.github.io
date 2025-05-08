@@ -29,8 +29,6 @@ permalink: /notes/note1/
 | :-- | :-- | :-- | :-- |
 | **椎间关节**（Intervertebral） | 软骨联合 + 小关节面 | 脊柱屈伸、侧屈、旋转；竖脊肌与深层稳定肌控制 | <https://teachmeanatomy.info/back/bones/vertebral-column/> |
 | **肋椎关节**（Costovertebral） | 平面滑动 | 呼吸时肋骨抬升 / 下沉；硬拉、划船需保持胸椎伸展 | <https://teachmeanatomy.info/thorax/bones/thoracic-spine/> |
-| **腰骶关节**（Lumbosacral） | 软骨联合 + 滑车 | 连接躯干与骨盆，负重转移；硬拉、深蹲核心稳固关键 | <https://teachmeanatomy.info/pelvis/joints/lumbosacral-joint/> |
-| **肩胛胸壁滑动面**（Scapulothoracic） | 功能性滑动 | 肩胛上 / 下旋、前伸、后缩；影响引体向上、划船效率 | <https://teachmeanatomy.info/upper-limb/joints/> |
 | **肩锁关节**（Acromioclavicular） | 平面滑动 | 微调肩胛动作，维持锁骨-肩峰角度 | <https://teachmeanatomy.info/upper-limb/joints/acromioclavicular/> |
 | **胸锁关节**（Sternoclavicular） | 鞍状-球窝 | 唯一连接上肢与躯干的真关节；肩带活动枢纽 | <https://teachmeanatomy.info/upper-limb/joints/sternoclavicular/> |
 | **肩关节 / 肱肩关节**（Glenohumeral） | 球窝滑液关节 | 多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽 | <https://teachmeanatomy.info/upper-limb/joints/shoulder/> |
