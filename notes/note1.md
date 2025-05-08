@@ -33,8 +33,8 @@ permalink: /notes/note1/
 #side-toc a:hover {
     text-decoration: underline;
 }
-/* 主体区域往右让开 */
-#main-content {
+/* 让主内容右移 */
+body {
     margin-left: 260px;
 }
 </style>
@@ -64,8 +64,6 @@ permalink: /notes/note1/
     </li>
 </ul>
 </div>
-
-<div id="main-content">
 
 # 练背笔记 · 背部解剖速览
 
@@ -182,5 +180,3 @@ permalink: /notes/note1/
 - 类型：球窝滑液关节  
 - 功能：多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽  
 - TeachMeAnatomy：<https://teachmeanatomy.info/upper-limb/joints/shoulder/>
-
-</div>
