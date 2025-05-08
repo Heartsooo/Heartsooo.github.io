@@ -4,44 +4,85 @@ title: 练背笔记
 permalink: /notes/note1/
 ---
 
+<!-- ----------  样式  ---------- -->
 <style>
-#side-toc {
-    position: fixed;
-    top: 120px;
-    left: 20px;
-    width: 220px;
-    background: #ffffff;
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 15px;
-    font-size: 14px;
-    line-height: 1.6;
-    box-shadow: 0 1px 3px rgba(27,31,35,0.12);
-    max-height: 70vh;
-    overflow-y: auto;
+/* 目录按钮 */
+#toc-toggle{
+    position:fixed;
+    top:120px;
+    left:20px;
+    z-index:1000;
+    background:#0366d6;
+    color:#fff;
+    border:none;
+    border-radius:4px;
+    padding:6px 14px;
+    font-size:14px;
+    cursor:pointer;
+    box-shadow:0 2px 4px rgba(0,0,0,0.15);
 }
-#side-toc ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
+
+/* 侧边目录 */
+#side-toc{
+    position:fixed;
+    top:120px;
+    left:20px;
+    width:220px;
+    background:#ffffff;
+    border:1px solid #e1e4e8;
+    border-radius:6px;
+    padding:15px;
+    font-size:14px;
+    line-height:1.6;
+    box-shadow:0 1px 3px rgba(27,31,35,0.12);
+    max-height:70vh;
+    overflow-y:auto;
+    transition:all 0.2s ease;
 }
-#side-toc ul li {
-    margin-bottom: 5px;
-}
-#side-toc ul li ul {
-    margin-left: 15px;
-}
-#side-toc a {
-    text-decoration: none;
-    color: #0366d6;
-}
-#side-toc a:hover {
-    text-decoration: underline;
-}
-.page-content {
-    padding-left: 260px;
+
+/* 折叠态：隐藏目录面板 */
+#side-toc.collapsed{display:none;}
+
+/* 目录列表基本样式 */
+#side-toc ul{list-style:none;padding-left:0;margin:0;}
+#side-toc ul li{margin-bottom:5px;}
+#side-toc ul li ul{margin-left:15px;}
+#side-toc a{text-decoration:none;color:#0366d6;}
+#side-toc a:hover{text-decoration:underline;}
+
+/* 页面主体留白——宽屏时给目录让位 */
+.page-content{padding-left:260px;transition:padding-left 0.2s ease;}
+/* 目录折叠时缩回留白 */
+body.toc-collapsed .page-content{padding-left:40px;}
+
+/* ----------  图片统一限制  ---------- */
+.page-content img{
+    max-width:480px;   /* 宽度上限 480px */
+    max-height:480px;  /* 高度上限 480px */
+    width:auto;
+    height:auto;
 }
 </style>
+
+<!-- ----------  目录按钮  ---------- -->
+<button id="toc-toggle">📑 目录</button>
+
+<!-- （下方 #side-toc 内容保持原有目录列表即可，这里省略 …） -->
+
+<!-- ----------  JS: 目录切换  ---------- -->
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+    const toc      = document.getElementById('side-toc');
+    const btn      = document.getElementById('toc-toggle');
+    const pc       = document.querySelector('.page-content');
+    // 初始：目录展开
+    btn.addEventListener('click',()=>{
+        toc.classList.toggle('collapsed');
+        document.body.classList.toggle('toc-collapsed');
+        btn.textContent = toc.classList.contains('collapsed') ? '📑 目录' : '✖ 关闭目录';
+    });
+});
+</script>
 
 <div id="side-toc">
 <strong>目录</strong>
