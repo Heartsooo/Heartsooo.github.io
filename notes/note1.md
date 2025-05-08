@@ -373,7 +373,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 | 动作 | 图示 | 说明 |
 | --- | --- | --- |
-| **背阔肌拉伸** | ![背阔肌拉伸](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=800&q=60) | 每侧保持 20–30 秒，重复 2–3 次。 |
+| **背阔肌拉伸** | ![背阔肌拉伸](https://i0.hdslb.com/bfs/archive/f6b72aab942c1a3f6898b6f6971125b935671612.jpg@384w_216h_1c) | 每侧保持 20–30 秒，重复 2–3 次。 |
 | **斜方肌拉伸** | ![斜方肌拉伸](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg) | 同侧手轻压头侧，体验颈部与上背伸展。 |
 | **菱形肌拉伸** | ![菱形肌拉伸](https://www.wikihow.com/images_en/thumb/c/c8/Stretch-Rhomboids-Step-2.jpg/v4-460px-Stretch-Rhomboids-Step-2.jpg) | 双手交叉前伸、拱背，保持 20–30 秒。 |
 | **竖脊肌前屈** | ![竖脊肌前屈](https://commons.wikimedia.org/wiki/Special:FilePath/A%20stretching%20posture%2C%20paschimottan%20asana.jpg) | 坐姿前屈抱脚或小腿，背部放松下沉 20–30 秒。 |
