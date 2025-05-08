@@ -29,7 +29,7 @@ permalink: /notes/note1/
 
 ### 背阔肌（Latissimus dorsi）
 
-![背阔肌](https://exrx.net/application/files/cache/thumbnails/02ba30f0d7f494096a8087005165c915.png)  
+![背阔肌](/assets/img/背阔肌.png)  
 - 覆盖中-下背外侧，呈扇形展开  
 - 功能：肩关节伸展、内收、内旋；协助下拉躯干与呼吸  
 - ExRx：<https://exrx.net/Muscles/LatissimusDorsi>
@@ -39,17 +39,17 @@ permalink: /notes/note1/
 ### 斜方肌（Trapezius）
 
 **上束**  
-![斜方肌上束](https://exrx.net/application/files/6615/1007/0734/TrapUpperHalfSmall.png)  
+![上斜方肌](/assets/img/上斜方肌.png)  
 - 耸肩、颈伸展、头侧屈  
 - ExRx：<https://exrx.net/Muscles/TrapeziusUpper>
 
 **中束**  
-![斜方肌中束](https://exrx.net/application/files/9615/1007/0688/TrapMiddleHalfSmall.png)  
+![中斜方肌](/assets/img/中斜方肌.png)  
 - 肩胛骨内收、固定  
 - ExRx：<https://exrx.net/Muscles/TrapeziusMiddle>
 
 **下束**  
-![斜方肌下束](https://exrx.net/application/files/9415/1007/0628/TrapLowerHalfSmall.png)  
+![下斜方肌](/assets/img/下斜方肌.png)  
 - 肩胛骨下压、上旋、固定  
 - ExRx：<https://exrx.net/Muscles/TrapeziusLower>
 
@@ -57,7 +57,7 @@ permalink: /notes/note1/
 
 ### 菱形肌（Rhomboid major / minor）
 
-![菱形肌](https://exrx.net/application/files/6115/1006/9307/RhomboidsHalfSmall.png)  
+![菱形肌](/assets/img/菱形肌.png)  
 - 肩胛骨内收、下旋，维持上背姿势  
 - ExRx：<https://exrx.net/Muscles/Rhomboids>
 
@@ -65,7 +65,7 @@ permalink: /notes/note1/
 
 ### 竖脊肌（Erector spinae）
 
-![竖脊肌](https://exrx.net/application/files/cache/thumbnails/0a6c97d23f6c2dae5a99827d7218cd80.png)  
+![竖脊肌](/assets/img/竖脊肌.png)  
 - 脊柱伸展、侧屈；维持站立与躯干稳定  
 - ExRx：<https://exrx.net/Muscles/ErectorSpinae>
 
@@ -73,7 +73,7 @@ permalink: /notes/note1/
 
 ### 大圆肌（Teres major）
 
-![大圆肌](https://exrx.net/application/files/8015/1007/0479/TeresMajorSmall.png)  
+![大圆肌](/assets/img/大圆肌.png)  
 - 肩内收、内旋  
 - ExRx：<https://exrx.net/Muscles/TeresMajor>
 
@@ -81,7 +81,7 @@ permalink: /notes/note1/
 
 ### 小圆肌（Teres minor）
 
-![小圆肌](https://exrx.net/application/files/6815/1007/0533/TeresMinorSmall.png)  
+![小圆肌](/assets/img/小圆肌.png)  
 - 肩外旋，属旋转袖  
 - ExRx：<https://exrx.net/Muscles/TeresMinor>
 
@@ -89,7 +89,7 @@ permalink: /notes/note1/
 
 ### 冈下肌（Infraspinatus）
 
-![冈下肌](https://exrx.net/application/files/cache/thumbnails/35f3cd7ef1770504cc70b228a9aa5e99.png)  
+![冈下肌](/assets/img/冈下肌.png)  
 - 肩外旋并稳定肱骨头  
 - ExRx：<https://exrx.net/Muscles/Infraspinatus>
 
@@ -97,7 +97,7 @@ permalink: /notes/note1/
 
 ### 肩胛提肌（Levator scapulae）
 
-![肩胛提肌](https://exrx.net/application/files/cache/thumbnails/b347fc26529ddf8a56df6ab5b1020b3d.png)  
+![肩胛提肌](/assets/img/肩胛提肌.png)  
 - 提肩胛骨，协助颈侧屈和旋转  
 - ExRx：<https://exrx.net/Muscles/LevatorScapulae>
 
