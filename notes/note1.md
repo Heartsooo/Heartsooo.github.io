@@ -68,6 +68,8 @@ permalink: /notes/note1/
 </ul>
 </div>
 
+<div id="main">
+
 # 练背笔记 · 背部解剖速览
 
 ## 🏋️‍♂️ 主要肌群（带图）
