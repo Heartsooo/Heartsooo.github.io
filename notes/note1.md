@@ -4,26 +4,70 @@ title: 练背笔记
 permalink: /notes/note1/
 ---
 
+<style>
+/* 左侧目录固定样式 */
+#side-toc {
+    position: fixed;
+    top: 120px;
+    left: 20px;
+    width: 220px;
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 15px;
+    font-size: 14px;
+    line-height: 1.6;
+    max-height: 70vh;
+    overflow-y: auto;
+}
+#side-toc ul {
+    list-style: none;
+    padding-left: 0;
+}
+#side-toc ul li {
+    margin-bottom: 5px;
+}
+#side-toc a {
+    text-decoration: none;
+    color: #0366d6;
+}
+#side-toc a:hover {
+    text-decoration: underline;
+}
+/* 主体区域往右让开 */
+#main-content {
+    margin-left: 260px;
+}
+</style>
+
+<div id="side-toc">
+<strong>📑 目录</strong>
+<ul>
+    <li><a href="#主要肌群带图">主要肌群</a>
+        <ul>
+            <li><a href="#背阔肌latissimus-dorsi">背阔肌</a></li>
+            <li><a href="#斜方肌trapezius">斜方肌</a></li>
+            <li><a href="#菱形肌rhomboid-major--minor">菱形肌</a></li>
+            <li><a href="#竖脊肌erector-spinae">竖脊肌</a></li>
+            <li><a href="#大圆肌teres-major">大圆肌</a></li>
+            <li><a href="#小圆肌teres-minor">小圆肌</a></li>
+            <li><a href="#冈下肌infraspinatus">冈下肌</a></li>
+            <li><a href="#肩胛提肌levator-scapulae">肩胛提肌</a></li>
+        </ul>
+    </li>
+    <li><a href="#关键关节带图">关键关节</a>
+        <ul>
+            <li><a href="#椎间关节intervertebral">椎间关节</a></li>
+            <li><a href="#肩锁关节acromioclavicular">肩锁关节</a></li>
+            <li><a href="#胸锁关节sternoclavicular">胸锁关节</a></li>
+            <li><a href="#肩关节--肱肩关节glenohumeral">肩关节</a></li>
+        </ul>
+    </li>
+</ul>
+</div>
+
+<div id="main-content">
+
 # 练背笔记 · 背部解剖速览
-
-## 📑 目录
-
-- [主要肌群（带图）](#主要肌群带图)
-    - [背阔肌](#背阔肌latissimus-dorsi)
-    - [斜方肌](#斜方肌trapezius)
-    - [菱形肌](#菱形肌rhomboid-major--minor)
-    - [竖脊肌](#竖脊肌erector-spinae)
-    - [大圆肌](#大圆肌teres-major)
-    - [小圆肌](#小圆肌teres-minor)
-    - [冈下肌](#冈下肌infraspinatus)
-    - [肩胛提肌](#肩胛提肌levator-scapulae)
-- [关键关节（带图）](#关键关节带图)
-    - [椎间关节](#椎间关节intervertebral)
-    - [肩锁关节](#肩锁关节acromioclavicular)
-    - [胸锁关节](#胸锁关节sternoclavicular)
-    - [肩关节](#肩关节--肱肩关节glenohumeral)
-
----
 
 ## 🏋️‍♂️ 主要肌群（带图）
 
@@ -139,4 +183,4 @@ permalink: /notes/note1/
 - 功能：多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽  
 - TeachMeAnatomy：<https://teachmeanatomy.info/upper-limb/joints/shoulder/>
 
----
+</div>
