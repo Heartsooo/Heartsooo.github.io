@@ -309,37 +309,66 @@ permalink: /notes/note1/
 ---
 ## 练背热身激活动作
 
+> 建议先做动态拉伸，再做神经激活。总耗时约 5–10 min，可显著提升神经驱动、降低受伤率。
+
 ### 动态拉伸（Dynamic Stretching）
 
-| 动作 | 示意图 | 简要说明 |
-| --- | --- | --- |
-| 肩关节环绕 | ![Arm Circles](https://upload.wikimedia.org/wikipedia/commons/a/a2/Ball-wall-circles-1.png) | 双臂水平伸展，前后各 10–15 圈 :contentReference[oaicite:0]{index=0} |
-| 猫牛式脊柱活动 | ![Cat-Cow](https://upload.wikimedia.org/wikipedia/commons/b/be/Yoga_at_Your_Park_-_Bitilasana.jpg) | 四足跪姿拱背-塌背，10–15 次 :contentReference[oaicite:1]{index=1} |
-| 躯干扭转 | ![Torso Twist](https://upload.wikimedia.org/wikipedia/commons/8/84/Ardha-Matsyendrasana_Yoga-Asana_Nina-Mel.jpg) | 站或坐姿左右转体，各 10–12 次 :contentReference[oaicite:2]{index=2} |
+1. **肩关节环绕**  
+   ![Arm-Circles](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arm-circles.gif/480px-Arm-circles.gif)  
+   双臂水平伸展，前后各 10–15 圈，松开肩周。
+
+2. **猫牛式脊柱活动**  
+   ![Cat-Cow](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cow_Pose.jpg/480px-Cow_Pose.jpg)  
+   四足跪姿，吸气拱背、呼气塌背，重复 10–15 次，激活深层稳定肌。
+
+3. **躯干扭转**  
+   ![Torso-Twist](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ardha-Matsyendrasana_Yoga-Asana_Nina-Mel.jpg/480px-Ardha-Matsyendrasana_Yoga-Asana_Nina-Mel.jpg)  
+   站姿或坐姿，双手抱肩左右转体，各 10–12 次，活动胸椎、腰椎。
 
 ### 激活练习（Activation Drills）
 
-| 动作 | 示意图 | 简要说明 |
-| --- | --- | --- |
-| 肩胛挤压 | ![Scapular Squeeze](https://api.kramesstaywell.com/Content/6066ca30-310a-4170-b001-a4ab013d61fd/ucr-images-v1/Images/man-from-back-with-elbows-bent-doing-shoulderblade-squeeze-exercise-37545) | 站/坐姿缓慢挤压肩胛，12–15 次 :contentReference[oaicite:3]{index=3} |
-| 弹力带划船 | ![Band Row](https://upload.wikimedia.org/wikipedia/commons/6/62/Back-flyes-with-resistance-bands-2.png) | 弹力带模拟划船，每侧 15–20 次 :contentReference[oaicite:4]{index=4} |
-| 迷你带外展 | ![Monster Walk](https://img.youtube.com/vi/B7FmyPhx7wM/0.jpg) | 半蹲侧步 10–15 步 |
+1. **肩胛挤压（Scapular Squeeze）**  
+   ![Scapular-Squeeze](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Scapular_retraction_exercises.png/480px-Scapular_retraction_exercises.png)  
+   站姿或坐姿，缓慢挤压肩胛骨，保持 2–3 秒，重复 12–15 次。
 
-> **提示**：热身总耗时约 5–10 min，可显著提高神经激活、降低受伤率。
+2. **弹力带划船（Band Row）**  
+   ![Band-Row](https://img.youtube.com/vi/dzgvfy8VwMs/0.jpg)  
+   站姿双手握带，模拟划船发力，感受背阔肌/菱形肌，每侧 15–20 次。  
+
+3. **迷你带外展（Monster Walk）**  
+   ![Monster-Walk](https://img.youtube.com/vi/0t21cISxw-E/0.jpg)  
+   迷你弹力带绑膝上，半蹲侧步 10–15 步，激活臀中肌与臀大肌，稳固硬拉/划船姿势。
 
 ---
 
 ## 练后拉伸动作
 
-| 动作 | 示意图 | 保持 & 重复 |
-| --- | --- | --- |
-| 背阔肌侧拉伸 | ![Lat Stretch](https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=60) | 每侧 20–30 s × 2–3 |
-| 斜方肌/颈侧拉伸 | ![Upper Trap Stretch](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg) | 每侧 20–30 s × 2–3 |
-| 菱形肌拉伸 | ![Rhomboid Stretch](https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=800&q=60) | 20–30 s × 2–3 |
-| 竖脊肌前屈 | ![Seated Forward Fold](https://upload.wikimedia.org/wikipedia/commons/1/1b/Paschimottanasana_Yoga.jpg) | 20–30 s × 2–3 |
-| 肩后群横抱 | ![Posterior Shoulder Stretch](https://img.youtube.com/vi/GvotBYxGUC0/0.jpg) | 每侧 20–30 s × 2–3 |
+> 训练结束后进行，可帮助肌肉放松、恢复长度、缓解僵硬。
 
-> **拉伸提示**：在主训练结束后进行，可帮助恢复、缓解上背紧张。
+1. **背阔肌侧拉伸**  
+   ![Lat-Stretch](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=800&q=60)  
+   动作：单手扶墙或高把，身体侧转、上体稍向外推，感受腋下背外侧拉伸。  
+   时间：每侧 20–30 秒，重复 2–3 次。  
+
+2. **斜方肌 / 颈侧拉伸**  
+   ![Upper-Trap-Stretch](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg)  
+   动作：坐/站姿，头偏向一侧，手轻压头侧，拉伸上斜方肌。  
+   时间：每侧 20–30 秒，重复 2–3 次。  
+
+3. **菱形肌拉伸**  
+   ![Rhomboid-Stretch](https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=800&q=60)  
+   动作：双手交叉向前伸并拱背，肩胛骨间距拉开。  
+   时间：保持 20–30 秒，重复 2–3 次。  
+
+4. **竖脊肌前屈（Seated Forward Fold）**  
+   ![Forward-Fold](https://images.unsplash.com/photo-1600275665096-dd23e724d5af?auto=format&fit=crop&w=800&q=60)  
+   动作：坐姿前屈，双手抱脚/小腿，背部放松下沉。  
+   时间：保持 20–30 秒，重复 2–3 次。  
+
+5. **肩后群横抱拉伸（Posterior Shoulder Stretch）**  
+   ![Posterior-Shoulder-Stretch](https://images.unsplash.com/photo-1571019613570-0a132f043aed?auto=format&fit=crop&w=800&q=60)  
+   动作：将一侧手臂横抱到胸前，用另一手轻压肘部，拉伸小圆肌/冈下肌。  
+   时间：每侧 20–30 秒，重复 2–3 次。
 
 
 
