@@ -3,6 +3,41 @@ layout: page
 title: 练背笔记
 permalink: /notes/note1/
 ---
+## 背部肌群简介
+
+> **示意图**  
+> ![Back muscle anatomy](https://exatin.info/wp-content/uploads/2021/01/Back-Muscle-Diagram.png)  
+
+背部肌肉大体可分为三层：  
+- **浅层**：连接肩带，负责肩胛骨与上肢运动  
+- **中间层**：协助呼吸  
+- **深层**：紧贴脊柱，负责稳定与伸展  
+
+| 肌群 | 位置与形态 | 主要功能 | 常见训练动作 |
+| :-- | :-- | :-- | :-- |
+| **背阔肌**<br>Latissimus dorsi | 覆盖背部中-下段两侧 | 肩关节伸展、内收、内旋 | 引体向上、高位下拉、杠铃划船 |
+| **斜方肌**<br>Trapezius（上 / 中 / 下束） | 枕骨→T12，覆盖上背 | 上束耸肩；中束肩胛内收；下束肩胛下压 | 哑铃耸肩、T 字划船 |
+| **菱形肌**<br>Rhomboid major / minor | 肩胛骨与胸椎之间 | 肩胛骨内收、下旋 | 坐姿划船、面拉 |
+| **竖脊肌**<br>Erector spinae | 沿脊柱两侧纵向分布 | 脊柱伸展、侧屈；维持躯干稳定 | 硬拉、罗马椅背伸 |
+| **大 / 小圆肌**<br>Teres major / minor | 肩胛骨外下缘 | 协助肩内收 / 外旋 | 单臂哑铃划船、绳索下拉 |
+| **冈下肌等旋转袖肌**<br>Infraspinatus 等 | 覆盖肩胛骨后侧 | 肩外旋、稳定肩袖 | 弹力带外旋、反向飞鸟 |
+| **肩胛提肌**<br>Levator scapulae | 颈椎→肩胛上角 | 提肩、协助颈部旋转 | 颈侧屈拉伸、轻重量耸肩 |
+
+> **训练提示**  
+> - 在每一次拉动顶点 **主动收紧肩胛**、保持核心紧绷。  
+> - 避免只用手臂完成动作，确保背部肌群真正参与发力。
+
+---
+
+### 参考链接  
+1. 搜狐专栏《背肌构成背部肌肉介绍》:contentReference[oaicite:1]{index=1}  
+2. ACE Fitness Research – *What is the Best Back Exercise?* :contentReference[oaicite:2]{index=2}  
+3. 知乎专栏《背部肌肉的六大分区》:contentReference[oaicite:3]{index=3}  
+4. Verywell Health – *Anatomy of the Back Muscles* :contentReference[oaicite:4]{index=4}  
+
+---
+
+接下来如需**热身动作**或其他部分的 Markdown，请告诉我！
 
 # 练背（Back Training）全攻略
 
