@@ -36,9 +36,9 @@ permalink: /notes/note1/
 #side-toc a:hover {
     text-decoration: underline;
 }
-/* 让内容整体保留居中，而不是挤到右边 */
-#main {
-    padding-left: 260px; /* 预留侧边栏宽度 */
+/* 让内容整体右移但保留居中 */
+.page-content {
+    padding-left: 260px;
 }
 </style>
 
@@ -67,8 +67,6 @@ permalink: /notes/note1/
     </li>
 </ul>
 </div>
-
-<div id="main">
 
 # 练背笔记 · 背部解剖速览
 
