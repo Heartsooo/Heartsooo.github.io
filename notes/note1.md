@@ -10,6 +10,25 @@ permalink: /notes/note1/
 
 ---
 
+## 📑 目录
+
+- [主要肌群（带图）](#主要肌群带图)
+    - [背阔肌](#背阔肌latissimus-dorsi)
+    - [斜方肌](#斜方肌trapezius)
+    - [菱形肌](#菱形肌rhomboid-major--minor)
+    - [竖脊肌](#竖脊肌erector-spinae)
+    - [大圆肌](#大圆肌teres-major)
+    - [小圆肌](#小圆肌teres-minor)
+    - [冈下肌](#冈下肌infraspinatus)
+    - [肩胛提肌](#肩胛提肌levator-scapulae)
+- [关键关节（带图）](#关键关节带图)
+    - [椎间关节](#椎间关节intervertebral)
+    - [肩锁关节](#肩锁关节acromioclavicular)
+    - [胸锁关节](#胸锁关节sternoclavicular)
+    - [肩关节](#肩关节--肱肩关节glenohumeral)
+
+---
+
 ## 🏋️‍♂️ 主要肌群（带图）
 
 ### 背阔肌（Latissimus dorsi）
@@ -125,5 +144,3 @@ permalink: /notes/note1/
 - TeachMeAnatomy：<https://teachmeanatomy.info/upper-limb/joints/shoulder/>
 
 ---
-
-✅ **小提示**：如果你想加目录、卡片风格或网页互动效果，可以继续找我，我帮你做更美观的增强版！🌟
