@@ -311,45 +311,36 @@ permalink: /notes/note1/
 
 ### 动态拉伸（Dynamic Stretching）
 
-- **肩关节环绕**：双手自然下垂，向前后做大范围环绕，每方向 10–15 次，用于松开肩周。
-- **猫牛式脊柱活动**：四足跪姿，吸气拱背、呼气塌背，重复 10–15 次，激活脊柱稳定肌群。
-- **躯干扭转**：站姿，双手抱肩、左右转体，各 10–12 次，感受胸椎、腰椎活动度。
+| 动作 | 示意图 | 简要说明 |
+| --- | --- | --- |
+| 肩关节环绕 | ![Arm Circles](https://upload.wikimedia.org/wikipedia/commons/a/a2/Ball-wall-circles-1.png) | 双臂水平伸展，前后各 10–15 圈 :contentReference[oaicite:0]{index=0} |
+| 猫牛式脊柱活动 | ![Cat-Cow](https://upload.wikimedia.org/wikipedia/commons/b/be/Yoga_at_Your_Park_-_Bitilasana.jpg) | 四足跪姿拱背-塌背，10–15 次 :contentReference[oaicite:1]{index=1} |
+| 躯干扭转 | ![Torso Twist](https://upload.wikimedia.org/wikipedia/commons/8/84/Ardha-Matsyendrasana_Yoga-Asana_Nina-Mel.jpg) | 站或坐姿左右转体，各 10–12 次 :contentReference[oaicite:2]{index=2} |
 
 ### 激活练习（Activation Drills）
 
-- **肩胛挤压（Scapular Squeeze）**：站姿或坐姿，双手自然垂放，缓慢向后挤压肩胛骨、维持 2–3 秒，重复 12–15 次。
-- **弹力带划船**：使用弹力带模拟划船动作，感受背阔肌、菱形肌、斜方肌发力，每侧 15–20 次。
-- **迷你带外展**：绑住膝上迷你弹力带，半蹲位侧走 10–15 步，激活臀中肌、臀大肌，辅助维持硬拉和划船稳定。
+| 动作 | 示意图 | 简要说明 |
+| --- | --- | --- |
+| 肩胛挤压 | ![Scapular Squeeze](https://api.kramesstaywell.com/Content/6066ca30-310a-4170-b001-a4ab013d61fd/ucr-images-v1/Images/man-from-back-with-elbows-bent-doing-shoulderblade-squeeze-exercise-37545) | 站/坐姿缓慢挤压肩胛，12–15 次 :contentReference[oaicite:3]{index=3} |
+| 弹力带划船 | ![Band Row](https://upload.wikimedia.org/wikipedia/commons/6/62/Back-flyes-with-resistance-bands-2.png) | 弹力带模拟划船，每侧 15–20 次 :contentReference[oaicite:4]{index=4} |
+| 迷你带外展 | ![Monster Walk](https://img.youtube.com/vi/B7FmyPhx7wM/0.jpg) | 半蹲侧步 10–15 步 |
 
-这些热身和激活动作在正式训练前进行，时间约 5–10 分钟，能有效减少受伤风险、提升训练质量。
+> **提示**：热身总耗时约 5–10 min，可显著提高神经激活、降低受伤率。
+
+---
+
 ## 练后拉伸动作
 
-### 背阔肌拉伸
+| 动作 | 示意图 | 保持 & 重复 |
+| --- | --- | --- |
+| 背阔肌侧拉伸 | ![Lat Stretch](https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=60) | 每侧 20–30 s × 2–3 |
+| 斜方肌/颈侧拉伸 | ![Upper Trap Stretch](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg) | 每侧 20–30 s × 2–3 |
+| 菱形肌拉伸 | ![Rhomboid Stretch](https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=800&q=60) | 20–30 s × 2–3 |
+| 竖脊肌前屈 | ![Seated Forward Fold](https://upload.wikimedia.org/wikipedia/commons/1/1b/Paschimottanasana_Yoga.jpg) | 20–30 s × 2–3 |
+| 肩后群横抱 | ![Posterior Shoulder Stretch](https://img.youtube.com/vi/GvotBYxGUC0/0.jpg) | 每侧 20–30 s × 2–3 |
 
-- 动作：单手扶墙或高处，身体侧转、上体稍向外推，感受腋下、背外侧拉伸。
-- 时间：每侧保持 20–30 秒，重复 2–3 次。
+> **拉伸提示**：在主训练结束后进行，可帮助恢复、缓解上背紧张。
 
-### 斜方肌拉伸
-
-- 动作：坐姿或站姿，头偏向一侧，手轻轻压在头侧，拉伸颈部与上背。
-- 时间：每侧保持 20–30 秒，重复 2–3 次。
-
-### 菱形肌拉伸
-
-- 动作：双手交叉向前伸，背部拱起，肩胛骨间距拉开。
-- 时间：保持 20–30 秒，重复 2–3 次。
-
-### 竖脊肌拉伸
-
-- 动作：坐姿前屈，双手抱住脚或小腿，背部放松下沉。
-- 时间：保持 20–30 秒，重复 2–3 次。
-
-### 肩后群拉伸（小圆肌、冈下肌）
-
-- 动作：将一侧手臂横抱到胸前，用另一只手轻压手肘。
-- 时间：每侧保持 20–30 秒，重复 2–3 次。
-
-这些拉伸动作建议在主训练结束后进行，有助于放松肌肉、缓解紧张、预防僵硬。
 
 
 ---
