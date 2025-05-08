@@ -381,6 +381,15 @@ document.addEventListener('DOMContentLoaded',function(){
 
 > 以上拉伸在主训练结束后完成，可帮助放松肌肉、缓解紧张并预防僵硬。
 
+## 📚 参考资料与工具
+
+| 序号 | 链接 | 用途说明 |
+| :-: | --- | --- |
+| 1 | **ExRx Exercise Library** <https://exrx.net/> | 全球最全的肌群 & 动作资料库：查看标准动作动画、常见错误、肌肉激活解析。<br>例如：Pull-up ➜ <https://exrx.net/WeightExercises/LatissimusDorsi/BWChinup> |
+| 2 | **StrengthLevel – Strength Standards** <https://strengthlevel.com/strength-standards/pull-ups> | 通过体重与最大重复次数（或重量）评估你在 Pull-up、Deadlift 等动作上的「新手 / 中级 / 进阶 / 精英」水平，方便目标设定与进度追踪。 |
+| 3 | **TeachMeAnatomy.info** <https://teachmeanatomy.info/> | 系统化的骨骼与关节解剖知识库：快速了解 Glenohumeral、Acromioclavicular 等关节运动学与受伤机制。<br>例如：肩关节 ➜ <https://teachmeanatomy.info/upper-limb/joints/shoulder/> |
+
+
 
 
 
