@@ -5,175 +5,40 @@ permalink: /notes/note1/
 ---
 ## 背部肌群简介
 
-> **示意图**  
-> ![Back muscle anatomy](https://exatin.info/wp-content/uploads/2021/01/Back-Muscle-Diagram.png)  
-
-背部肌肉大体可分为三层：  
-- **浅层**：连接肩带，负责肩胛骨与上肢运动  
-- **中间层**：协助呼吸  
-- **深层**：紧贴脊柱，负责稳定与伸展  
-
-| 肌群 | 位置与形态 | 主要功能 | 常见训练动作 |
-| :-- | :-- | :-- | :-- |
-| **背阔肌**<br>Latissimus dorsi | 覆盖背部中-下段两侧 | 肩关节伸展、内收、内旋 | 引体向上、高位下拉、杠铃划船 |
-| **斜方肌**<br>Trapezius（上 / 中 / 下束） | 枕骨→T12，覆盖上背 | 上束耸肩；中束肩胛内收；下束肩胛下压 | 哑铃耸肩、T 字划船 |
-| **菱形肌**<br>Rhomboid major / minor | 肩胛骨与胸椎之间 | 肩胛骨内收、下旋 | 坐姿划船、面拉 |
-| **竖脊肌**<br>Erector spinae | 沿脊柱两侧纵向分布 | 脊柱伸展、侧屈；维持躯干稳定 | 硬拉、罗马椅背伸 |
-| **大 / 小圆肌**<br>Teres major / minor | 肩胛骨外下缘 | 协助肩内收 / 外旋 | 单臂哑铃划船、绳索下拉 |
-| **冈下肌等旋转袖肌**<br>Infraspinatus 等 | 覆盖肩胛骨后侧 | 肩外旋、稳定肩袖 | 弹力带外旋、反向飞鸟 |
-| **肩胛提肌**<br>Levator scapulae | 颈椎→肩胛上角 | 提肩、协助颈部旋转 | 颈侧屈拉伸、轻重量耸肩 |
+| 肌群 | 主要功能 | 常见动作示例 |
+| :-- | :-- | :-- |
+| **背阔肌**<br>(Latissimus dorsi) | 肩关节伸展、内收、内旋 | - Chin-Up / Pull-Up  <br>- 杠铃 Bent-Over Row |
+| **斜方肌**<br>(Trapezius) | 上束耸肩；中束肩胛内收；下束肩胛下压 | - 哑铃/杠铃耸肩 <br>- T 字划船 |
+| **菱形肌**<br>(Rhomboids) | 肩胛骨内收与下旋 | - 坐姿划船 <br>- 面拉 (Face Pull) |
+| **竖脊肌**<br>(Erector spinae) | 脊柱伸展、维持躯干稳定 | - 罗马椅背伸 <br>- 罗马尼亚硬拉 |
+| **大/小圆肌**<br>(Teres major / minor) | 协助肩内收 / 外旋 | - 单臂哑铃划船 <br>- 绳索下拉 |
+| **肩袖肌群**<br>(Infraspinatus 等) | 肩外旋、稳定肩袖 | - 弹力带外旋 <br>- 反向飞鸟 |
 
 > **训练提示**  
-> - 在每一次拉动顶点 **主动收紧肩胛**、保持核心紧绷。  
-> - 避免只用手臂完成动作，确保背部肌群真正参与发力。
+> 1. 在拉动顶点 **主动收紧肩胛骨**，保持核心紧绷。  
+> 2. 避免只用手臂完成动作，确保背部肌群真正参与发力。  
 
 ---
 
-### 参考链接  
-1. 搜狐专栏《背肌构成背部肌肉介绍》:contentReference[oaicite:1]{index=1}  
-2. ACE Fitness Research – *What is the Best Back Exercise?* :contentReference[oaicite:2]{index=2}  
-3. 知乎专栏《背部肌肉的六大分区》:contentReference[oaicite:3]{index=3}  
-4. Verywell Health – *Anatomy of the Back Muscles* :contentReference[oaicite:4]{index=4}  
+## 在线动作库参考（MuscleWiki & ExRx）
+
+> 两个站点都提供动态图/GIF 与分步讲解：  
+> - **MuscleWiki**：搜索动作或点选交互式肌肉人。  
+> - **ExRx**：更侧重解剖分析与多种变式对比。
+
+| 目标肌群 | MuscleWiki 教学 | ExRx 教学（文字+GIF） |
+| :-- | :-- | :-- |
+| 背阔肌 | [Chin-Up](https://musclewiki.com/bodyweight/male/lats/chin-ups/) · [Bent-Over Row](https://musclewiki.com/barbell/male/wrist-flexors/barbell-bent-over-row) | Bent-Over Row <https://exrx.net/WeightExercises/BackGeneral/BBBentOverRow> |
+| 斜方肌 / 菱形 | [Dumbbell Row](https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-row-bilateral) | Face Pull <https://exrx.net/WeightExercises/DeltoidPosterior/CBFacePull> |
+| 竖脊肌 | [Superman](https://musclewiki.com/exercises/male/lowerback) · [Romanian Deadlift](https://musclewiki.com/barbell/female/lowerback) | Romanian Deadlift <https://exrx.net/WeightExercises/ErectorSpinae/BBRomanianDeadlift> |
+| 综合教学 | [Seated Cable Row](https://musclewiki.com/machine/female/biceps/machine-seated-cable-row) | Seated Cable Row <https://exrx.net/WeightExercises/BackGeneral/CBStraightBackSeatedRow> |
+
+> **使用建议**  
+> - 先在 MuscleWiki 观看 GIF，确认动作节奏与轨迹。  
+> - 再阅读 ExRx 的细节解析，了解常见代偿与安全守则。  
+> - 录像自己的训练动作，对照两站点示范及时纠正。  
+
 
 ---
 
-接下来如需**热身动作**或其他部分的 Markdown，请告诉我！
 
-# 练背（Back Training）全攻略
-
-> 更新：{{ "now" | date: "%Y-%m-%d" }}  
-> 本笔记用于系统梳理背部训练的 **解剖基础 / 动作选择 / 周期编排 / 技术细节 / 拉伸放松** 等核心要点，帮助构建强大又健康的“后驱动（posterior chain）”。
-
----
-
-## 目录
-1. [核心肌群与功能](#核心肌群与功能)
-2. [基础 & 进阶动作库](#动作库)
-3. [周期与强度编排](#周期与强度编排)
-4. [动作技术细节](#动作技术细节)
-5. [拉伸与放松](#拉伸与放松)
-6. [常见误区 & 解决方案](#误区)
-7. [进阶策略](#进阶策略)
-8. [参考文献与资源](#参考)
-
----
-
-<a name="核心肌群与功能"></a>
-## 1️⃣ 核心肌群与功能
-
-| 区域 | 主要肌肉 | 主要功能 | 训练关键点 |
-|------|----------|----------|------------|
-| 上背 | **斜方肌中/下束**<br>菱形肌 | 肩胛骨收缩、下压与稳定 | 重点感受肩胛骨“挤压—放松” |
-| 中背 | **背阔肌** | 肩关节伸展、内收、内旋 | 想象“肘向兜裤袋”、“拉绳索到髋” |
-| 下背 | 竖脊肌（脊柱起立肌） | 脊柱伸展 & 抗屈 | 保持脊柱中立，避免过度代偿 |
-| 深层 | 小肌群（多裂肌、回旋肌） | 脊柱稳定、抗旋转 | 通过抗扭转动作（死虫、侧桥）强化 |
-
----
-
-<a name="动作库"></a>
-## 2️⃣ 动作库
-
-> **原则**：水平拉＋垂直拉＋伸髋硬拉 -> 全面覆盖
-
-| 类别 | 代表动作 | 主要刺激 | 备注 |
-|------|----------|----------|------|
-| 垂直拉 | 引体向上 / 坐姿下拉 | 背阔、低斜方 | 真假握距、前后握宽变化 |
-| 水平拉 | 哑铃/杠铃划船、绳索坐姿划船 | 菱形、斜方中部 | 腰背中立、肩胛骨全程活动 |
-| 地心拉 | 硬拉（常规/相扑）、罗马尼亚硬拉 | 后链整体 | 低 reps 高负重，注重髋驱动 |
-| 上斜拉 | 面拉 / 高位绳索划船 | 斜方下束、菱形 | 预防圆肩，改善姿态 |
-| 单臂孤立 | 单臂哑铃划船、单臂绳索下拉 | 纠正左右不平衡 | 更好专注收缩 |
-| 抗扭核心 | 死虫、帕洛夫抗扭 | 多裂肌、核心 | 提高稳固性，保护脊柱 |
-
----
-
-<a name="周期与强度编排"></a>
-## 3️⃣ 周期与强度编排
-
-| 目标 | 周频次 | 每次总组数 | 重量区间 | 备注 |
-|------|--------|-----------|----------|------|
-| Hypertrophy（增肌） | 2–3 次/周 | 12–18 组 | 6–15RM | 留 1–2 组到 **接近力竭** |
-| Strength（力量） | 1–2 次/周 | 8–12 组 | 3–6RM | 高负重硬拉/划船优先 |
-| Endurance（肌耐力） | 2+ 次/周 | 15–20 组 | 15–25RM | 休息 45–60s，采用巨组 |
-
-> 💡 **微周期** 示例（增肌）  
-> *Day A*：垂直拉 + 地心拉  
-> *Day B*：水平拉 + 上斜拉 + 核心抗扭  
-> 隔 48h 交替，高/低强度周循环。
-
----
-
-<a name="动作技术细节"></a>
-## 4️⃣ 动作技术细节
-
-- **引体向上**  
-  1. 起始：肩胛微收、核心收紧。  
-  2. 上拉：想象“肘推向地面”。避免耸肩/代偿摆动。  
-  3. 顶端：下巴过杆 ≠ 必须后仰；保持胸导向。  
-  4. 下放：3 秒控制，下拉全伸展但不松肩。
-
-- **硬拉（常规）**  
-  - 髋关节主导，肩胛放松垂直于地，避免过度伸背。  
-  - 杠铃路线贴胫直线上升，呼气锁定。  
-
-- **哑铃划船**  
-  - 单手支撑时保持骨盆水平；发力想象“肘向后、向臀口袋”。  
-  - 控制顶端收缩 1 秒，再缓慢下降。
-
----
-
-<a name="拉伸与放松"></a>
-## 5️⃣ 拉伸与放松
-
-| 时机 | 动作 | 时间/组数 | 目的 |
-|------|------|-----------|------|
-| 热身前 | 弹力带肩胛激活（面拉、Y-T-W） | 2×15 | 唤醒中下斜方 |
-| 训练后 | 背阔肌伸展（吊环悬挂/猫伸展） | 30–45 s ×2 | 放松 & 恢复 |
-| 训练后 | 泡沫轴滚动竖脊肌 | 30 s/段 | 缓解紧张，促进血流 |
-
----
-
-<a name="误区"></a>
-## 6️⃣ 常见误区 & 解决方案
-
-| 误区 | 后果 | 修正 |
-|------|------|------|
-| 只练引体、不练水平拉 | 导致圆肩前倾 | 加入面拉、坐姿划船 |
-| 划船耸肩借力 | 激活不到中背 | 先下沉肩胛再拉 |
-| 硬拉靠腰发力 | 腰痛风险 | 练习髋驱动：臀桥、硬拉分解 |
-| 重量堆叠忽视离心 | 成长停滞 | 控制离心 2–3 s |
-
----
-
-<a name="进阶策略"></a>
-## 7️⃣ 进阶策略
-
-1. **双向渐进：重量 + 难度**  
-   - 如把引体升级为负重引体 / L-Sit 引体  
-   - 硬拉提升到 2×体重 → 再切换相扑硬拉或陷阱杠
-
-2. **偏弱部位孤立**  
-   - 若斜方下束弱：采用高位绳索 Y 拉、直臂下拉  
-   - 若竖脊肌弱：超人式 → 负重超人式 → 古德莫宁
-
-3. **周期波动**  
-   - 4–6 周高容量 → 1 周降量（deload）  
-   - 交替力量块与增肌块，提高长期适应
-
----
-
-<a name="参考"></a>
-## 8️⃣ 参考文献与资源
-
-- Schoenfeld, B. *Science and Development of Muscle Hypertrophy*.  
-- Contreras, B. *Glute Lab*（后链 / 硬拉技术详解）  
-- ExRx.net：动作数据库  
-- Jeff Nippard YouTube：背部训练解剖与编排  
-- Alan Thrall：硬拉技术视频
-- https://strengthlevel.com/
-- https://www.acefitness.org/resources/everyone/exercise-library/experience/advanced/
-- https://exrx.net/Kinesiology/Posture#Winged
-
----
-
-> 📌 **小结**  
-> 坚持 8–12 周、遵循渐进超负荷原则，合理安排恢复与拉伸，你的背部厚度和姿态都会获得显著提升。加油成为“背厚”选手！💪
