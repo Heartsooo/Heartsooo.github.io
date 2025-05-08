@@ -311,35 +311,36 @@ permalink: /notes/note1/
 
 ### 动态拉伸（Dynamic Stretching）
 
-| 动作 | 示意图 | 简要说明 |
+| 动作 | 图示 | 说明 |
 | --- | --- | --- |
-| 肩关节环绕 | ![Arm Circles](https://upload.wikimedia.org/wikipedia/commons/a/a2/Ball-wall-circles-1.png) | 双臂水平伸展，前后各 10–15 圈 :contentReference[oaicite:0]{index=0} |
-| 猫牛式脊柱活动 | ![Cat-Cow](https://upload.wikimedia.org/wikipedia/commons/b/be/Yoga_at_Your_Park_-_Bitilasana.jpg) | 四足跪姿拱背-塌背，10–15 次 :contentReference[oaicite:1]{index=1} |
-| 躯干扭转 | ![Torso Twist](https://upload.wikimedia.org/wikipedia/commons/8/84/Ardha-Matsyendrasana_Yoga-Asana_Nina-Mel.jpg) | 站或坐姿左右转体，各 10–12 次 :contentReference[oaicite:2]{index=2} |
+| **肩关节环绕** | ![肩关节环绕](https://commons.wikimedia.org/wiki/Special:FilePath/Ball-wall-circles-1.png) | 双手自然下垂，向前后做大范围环绕，各 10–15 次，松开肩周。 |
+| **猫牛式脊柱活动** | ![猫牛式](https://commons.wikimedia.org/wiki/Special:FilePath/Yoga_at_Your_Park_-_Bitilasana.jpg) | 四足跪姿，吸气拱背、呼气塌背，重复 10–15 次，激活脊柱稳定肌群。 |
+| **躯干扭转** | ![躯干扭转](https://commons.wikimedia.org/wiki/Special:FilePath/Ardha-Matsyendrasana_Yoga-Asana_Nina-Mel.jpg) | 站姿双手抱肩左右转体，各 10–12 次，活动胸椎、腰椎。 |
 
 ### 激活练习（Activation Drills）
 
-| 动作 | 示意图 | 简要说明 |
+| 动作 | 图示 | 说明 |
 | --- | --- | --- |
-| 肩胛挤压 | ![Scapular Squeeze](https://api.kramesstaywell.com/Content/6066ca30-310a-4170-b001-a4ab013d61fd/ucr-images-v1/Images/man-from-back-with-elbows-bent-doing-shoulderblade-squeeze-exercise-37545) | 站/坐姿缓慢挤压肩胛，12–15 次 :contentReference[oaicite:3]{index=3} |
-| 弹力带划船 | ![Band Row](https://upload.wikimedia.org/wikipedia/commons/6/62/Back-flyes-with-resistance-bands-2.png) | 弹力带模拟划船，每侧 15–20 次 :contentReference[oaicite:4]{index=4} |
-| 迷你带外展 | ![Monster Walk](https://img.youtube.com/vi/B7FmyPhx7wM/0.jpg) | 半蹲侧步 10–15 步 |
+| **肩胛挤压 (Scapular Squeeze)** | ![肩胛挤压](https://commons.wikimedia.org/wiki/Special:FilePath/Scapular_retraction_brace_FSHD.png) | 站姿或坐姿缓慢向后挤压肩胛骨，维持 2–3 秒，做 12–15 次。 |
+| **弹力带划船** | ![弹力带划船](https://commons.wikimedia.org/wiki/Special:FilePath/Cable-seated-rows-1.png) | 模拟划船动作激活背阔肌、菱形肌，每侧 15–20 次。 |
+| **迷你带外展 (Monster/Lateral Band Walk)** | ![迷你带外展](https://images.unsplash.com/photo-1584466977770-89c507ed37f4?auto=format&fit=crop&w=800&q=60) | 半蹲位侧向行走 10–15 步，激活臀中肌、臀大肌，提高硬拉与划船稳定性。 |
 
-> **提示**：热身总耗时约 5–10 min，可显著提高神经激活、降低受伤率。
+> 热身总时长 ≈ 5–10 分钟，可有效降低受伤风险并提升主训练质量。  
 
 ---
 
 ## 练后拉伸动作
 
-| 动作 | 示意图 | 保持 & 重复 |
+| 动作 | 图示 | 说明 |
 | --- | --- | --- |
-| 背阔肌侧拉伸 | ![Lat Stretch](https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=60) | 每侧 20–30 s × 2–3 |
-| 斜方肌/颈侧拉伸 | ![Upper Trap Stretch](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg) | 每侧 20–30 s × 2–3 |
-| 菱形肌拉伸 | ![Rhomboid Stretch](https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=800&q=60) | 20–30 s × 2–3 |
-| 竖脊肌前屈 | ![Seated Forward Fold](https://upload.wikimedia.org/wikipedia/commons/1/1b/Paschimottanasana_Yoga.jpg) | 20–30 s × 2–3 |
-| 肩后群横抱 | ![Posterior Shoulder Stretch](https://img.youtube.com/vi/GvotBYxGUC0/0.jpg) | 每侧 20–30 s × 2–3 |
+| **背阔肌拉伸** | ![背阔肌拉伸](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=800&q=60) | 每侧保持 20–30 秒，重复 2–3 次。 |
+| **斜方肌拉伸** | ![斜方肌拉伸](https://images.unsplash.com/photo-1600616184578-070e80ba86f9?auto=format&fit=crop&w=800&q=60) | 同侧手轻压头侧，体验颈部与上背伸展。 |
+| **菱形肌拉伸** | ![菱形肌拉伸](https://images.unsplash.com/photo-1518611012118-f4bdf739fefc?auto=format&fit=crop&w=800&q=60) | 双手交叉前伸、拱背，保持 20–30 秒。 |
+| **竖脊肌前屈** | ![竖脊肌前屈](https://commons.wikimedia.org/wiki/Special:FilePath/A%20stretching%20posture%2C%20paschimottan%20asana.jpg) | 坐姿前屈抱脚或小腿，背部放松下沉 20–30 秒。 |
+| **肩后群横抱（Posterior Shoulder Stretch）** | ![肩后群横抱](https://commons.wikimedia.org/wiki/Special:FilePath/Diagram_showing_a_shoulder_stretch_exercise_after_breast_reconstruction_surgery_CRUK_078.svg) | 将一侧手臂横抱胸前、对侧手轻压肘部，保持 20–30 秒。 |
 
-> **拉伸提示**：在主训练结束后进行，可帮助恢复、缓解上背紧张。
+> 以上拉伸在主训练结束后完成，可帮助放松肌肉、缓解紧张并预防僵硬。
+
 
 
 
