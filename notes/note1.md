@@ -323,7 +323,6 @@ permalink: /notes/note1/
 | --- | --- | --- |
 | **肩胛挤压 (Scapular Squeeze)** | ![肩胛挤压](https://commons.wikimedia.org/wiki/Special:FilePath/Scapular_retraction_brace_FSHD.png) | 站姿或坐姿缓慢向后挤压肩胛骨，维持 2–3 秒，做 12–15 次。 |
 | **弹力带划船** | ![弹力带划船](https://commons.wikimedia.org/wiki/Special:FilePath/Cable-seated-rows-1.png) | 模拟划船动作激活背阔肌、菱形肌，每侧 15–20 次。 |
-| **迷你带外展 (Monster/Lateral Band Walk)** | ![迷你带外展](https://images.unsplash.com/photo-1584466977770-89c507ed37f4?auto=format&fit=crop&w=800&q=60) | 半蹲位侧向行走 10–15 步，激活臀中肌、臀大肌，提高硬拉与划船稳定性。 |
 
 > 热身总时长 ≈ 5–10 分钟，可有效降低受伤风险并提升主训练质量。  
 
@@ -334,8 +333,8 @@ permalink: /notes/note1/
 | 动作 | 图示 | 说明 |
 | --- | --- | --- |
 | **背阔肌拉伸** | ![背阔肌拉伸](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=800&q=60) | 每侧保持 20–30 秒，重复 2–3 次。 |
-| **斜方肌拉伸** | ![斜方肌拉伸](https://images.unsplash.com/photo-1600616184578-070e80ba86f9?auto=format&fit=crop&w=800&q=60) | 同侧手轻压头侧，体验颈部与上背伸展。 |
-| **菱形肌拉伸** | ![菱形肌拉伸](https://images.unsplash.com/photo-1518611012118-f4bdf739fefc?auto=format&fit=crop&w=800&q=60) | 双手交叉前伸、拱背，保持 20–30 秒。 |
+| **斜方肌拉伸** | ![斜方肌拉伸](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg) | 同侧手轻压头侧，体验颈部与上背伸展。 |
+| **菱形肌拉伸** | ![菱形肌拉伸](https://www.wikihow.com/images_en/thumb/c/c8/Stretch-Rhomboids-Step-2.jpg/v4-460px-Stretch-Rhomboids-Step-2.jpg) | 双手交叉前伸、拱背，保持 20–30 秒。 |
 | **竖脊肌前屈** | ![竖脊肌前屈](https://commons.wikimedia.org/wiki/Special:FilePath/A%20stretching%20posture%2C%20paschimottan%20asana.jpg) | 坐姿前屈抱脚或小腿，背部放松下沉 20–30 秒。 |
 | **肩后群横抱（Posterior Shoulder Stretch）** | ![肩后群横抱](https://commons.wikimedia.org/wiki/Special:FilePath/Diagram_showing_a_shoulder_stretch_exercise_after_breast_reconstruction_surgery_CRUK_078.svg) | 将一侧手臂横抱胸前、对侧手轻压肘部，保持 20–30 秒。 |
 
