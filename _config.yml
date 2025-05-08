@@ -6,8 +6,6 @@ navbar-links:
   About Me: "aboutme"
   Notes: "notes"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   GitHub: "https://github.com/Heartsooo"
 
 avatar: "/assets/img/avatar-icon.png"
