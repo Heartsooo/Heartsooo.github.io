@@ -6,10 +6,6 @@ permalink: /notes/note1/
 
 # 练背笔记 · 背部解剖速览
 
-![背部肌肉示意](https://upload.wikimedia.org/wikipedia/commons/3/39/Back_muscles_labeled.svg)
-
----
-
 ## 📑 目录
 
 - [主要肌群（带图）](#主要肌群带图)
