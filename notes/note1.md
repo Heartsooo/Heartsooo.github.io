@@ -5,23 +5,26 @@ permalink: /notes/note1/
 ---
 
 <style>
-/* 左侧目录固定样式 */
+/* 左侧目录统一风格 */
 #side-toc {
     position: fixed;
     top: 120px;
     left: 20px;
     width: 220px;
-    background: #f9f9f9;
-    border: 1px solid #ccc;
+    background: #ffffff;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
     padding: 15px;
     font-size: 14px;
     line-height: 1.6;
+    box-shadow: 0 1px 3px rgba(27,31,35,0.12);
     max-height: 70vh;
     overflow-y: auto;
 }
 #side-toc ul {
     list-style: none;
     padding-left: 0;
+    margin: 0;
 }
 #side-toc ul li {
     margin-bottom: 5px;
@@ -33,9 +36,9 @@ permalink: /notes/note1/
 #side-toc a:hover {
     text-decoration: underline;
 }
-/* 让主内容右移 */
-body {
-    margin-left: 260px;
+/* 让内容整体保留居中，而不是挤到右边 */
+#main {
+    padding-left: 260px; /* 预留侧边栏宽度 */
 }
 </style>
 
