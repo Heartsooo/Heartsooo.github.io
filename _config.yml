@@ -1,24 +1,23 @@
-title: Liu Chengxin's Personal Website
+title: Heartsooo's Personal Website
 
-author: Liu Chengxin
+author: Heartsooo
 
 navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  GitHub: "https://github.com/liuchengxin"
+  GitHub: "https://github.com/Heartsooo"
 
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
 
 social-network-links:
-  email: "YOUR_EMAIL@example.com"
-  github: liuchengxin1
-  linkedin: YOUR_LINKEDIN_USERNAME
-  twitter: YOUR_TWITTER_HANDLE
+  email: "liuchengxin@shu.edu.cn"
+  github: Heartsooo
 
-rss-description: Welcome to Liu Chengxin's personal website
+
+rss-description: Welcome to Heartsooo's personal website
 
 share-links-active:
   twitter: true
@@ -26,7 +25,7 @@ share-links-active:
   linkedin: true
   reddit: false
 
-url-pretty: "liuchengxin.github.io"
+url-pretty: "Heartsooo.github.io"
 
 title-on-all-pages: true
 
