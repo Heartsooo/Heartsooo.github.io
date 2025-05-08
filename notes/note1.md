@@ -25,18 +25,15 @@ permalink: /notes/note1/
 
 ## 2 · 关键关节（Articulations）
 
-| 关节 / 功能性接触面 | 类型 | 主要运动 & 训练相关性 | TeachMeAnatomy 资料 |
+| 关节 | 类型 | 主要运动 & 训练相关性 | TeachMeAnatomy 链接 |
 | :-- | :-- | :-- | :-- |
-| **椎间关节**<br>(Intervertebral) | 椎体间纤维软骨 + 小关节面 | 脊柱屈伸、侧屈、旋转；竖脊肌与深层稳定肌控制 | <https://teachmeanatomy.info/spine/joints/intervertebral/> |
-| **胸椎-肋关节**<br>(Costovertebral) | 滑车-平面 | 呼吸时肋骨抬升/下沉；硬拉、划船需保持胸椎伸展 | <https://teachmeanatomy.info/thorax/joints/costovertebral/> |
-| **腰骶关节**<br>(Lumbosacral) | 椎间盘 + 滑车 | 连接躯干与骨盆，负重转移；硬拉、深蹲中核心稳固关键 | <https://teachmeanatomy.info/pelvis/joints/lumbosacral/> |
-| **肩胛-胸壁**<br>(Scapulothoracic) | 功能性滑动面 | 肩胛上/下旋、前伸、后缩；影响引体向上、划船效率 | <https://teachmeanatomy.info/upper-limb/joints/scapulothoracic/> |
-| **肩锁关节**<br>(Acromioclavicular) | 平面滑动 | 微小调节肩胛动作，维持锁骨-肩峰间角度 | <https://teachmeanatomy.info/upper-limb/joints/acromioclavicular/> |
-| **胸锁关节**<br>(Sternoclavicular) | 鞍状-球窝 | 唯一连接上肢与躯干的真关节；肩带整体活动范围“枢纽” | <https://teachmeanatomy.info/upper-limb/joints/sternoclavicular/> |
-| **肱肩关节**<br>(Glenohumeral) | 球窝滑液关节 | 多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽 | <https://teachmeanatomy.info/upper-limb/joints/shoulder/> |
-
-> **提示**  
-> 充分了解肌肉与关节解剖，有助于科学规划热身、训练与拉伸，减少受伤风险并提高训练效果。
+| **椎间关节**（Intervertebral） | 软骨联合 + 小关节面 | 脊柱屈伸、侧屈、旋转；竖脊肌与深层稳定肌控制 | <https://teachmeanatomy.info/back/bones/vertebral-column/> |
+| **肋椎关节**（Costovertebral） | 平面滑动 | 呼吸时肋骨抬升 / 下沉；硬拉、划船需保持胸椎伸展 | <https://teachmeanatomy.info/thorax/bones/thoracic-spine/> |
+| **腰骶关节**（Lumbosacral） | 软骨联合 + 滑车 | 连接躯干与骨盆，负重转移；硬拉、深蹲核心稳固关键 | <https://teachmeanatomy.info/pelvis/joints/lumbosacral-joint/> |
+| **肩胛胸壁滑动面**（Scapulothoracic） | 功能性滑动 | 肩胛上 / 下旋、前伸、后缩；影响引体向上、划船效率 | <https://teachmeanatomy.info/upper-limb/joints/> |
+| **肩锁关节**（Acromioclavicular） | 平面滑动 | 微调肩胛动作，维持锁骨-肩峰角度 | <https://teachmeanatomy.info/upper-limb/joints/acromioclavicular/> |
+| **胸锁关节**（Sternoclavicular） | 鞍状-球窝 | 唯一连接上肢与躯干的真关节；肩带活动枢纽 | <https://teachmeanatomy.info/upper-limb/joints/sternoclavicular/> |
+| **肩关节 / 肱肩关节**（Glenohumeral） | 球窝滑液关节 | 多轴运动（屈伸、内外旋、外展等）；背部训练主要动力枢纽 | <https://teachmeanatomy.info/upper-limb/joints/shoulder/> |
 
 
 ---
