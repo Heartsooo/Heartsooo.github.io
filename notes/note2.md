@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 练肩笔记
-permalink: /notes/shoulder/
+permalink: /notes/note2/
 ---
 
 <!-- ----------  样式  ---------- -->
