@@ -165,9 +165,9 @@ document.addEventListener('DOMContentLoaded',()=>{
 | --- | --- | --- | --- |
 | 肩环绕 | ![环绕](https://www.spotebi.com/wp-content/uploads/2014/10/arm-circles-exercise-illustration.jpg) | 手臂略屈肘，前后各 15 圈 | 缩脖耸肩 |
 | 猫牛式 | ![猫牛](https://media1.popsugar-assets.com/files/thumbor/q1cA6Es2iZQ4gCrRKcIZlqr5MrQ=/fit-in/792x792/filters:format_auto():upscale()/2025/01/10/960/n/1922729/tmp_TSf6dQ_46ee51111cabbf45_PS24_Fitness_CatCow_Horizontal.jpg) | 拱背-塌背 10–15 次 | 颈部过度仰伸 |
-| 站姿胸开合 | ![胸开合]([https://i.imgur.com/LlT0pjP.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3TuevlsvUZFYTpQCgSLP9CRehRzNU84CKQ&s)) | 双臂水平打开↔抱胸 15 次 | 腰部代偿 |
-| 体侧弯+转体 | ![侧弯]([https://i.imgur.com/Dh1OZ6q.gif](https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi.jpg)) | 左右侧弯→旋转各 8 次 | 骨盆偏移 |
-| 鸟狗式动态 | ![鸟狗]([https://i.imgur.com/jdocafV.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NsPxDQcH2fSFgARBlUK8WID89CN7ETcX1w&s)) | 对侧伸展 8–10 次/侧 | 腰椎塌陷 |
+| 站姿胸开合 | ![胸开合](https://i.imgur.com/LlT0pjP.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3TuevlsvUZFYTpQCgSLP9CRehRzNU84CKQ&s) | 双臂水平打开↔抱胸 15 次 | 腰部代偿 |
+| 体侧弯+转体 | ![侧弯](https://i.imgur.com/Dh1OZ6q.gif](https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi.jpg) | 左右侧弯→旋转各 8 次 | 骨盆偏移 |
+| 鸟狗式动态 | ![鸟狗](https://i.imgur.com/jdocafV.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NsPxDQcH2fSFgARBlUK8WID89CN7ETcX1w&s) | 对侧伸展 8–10 次/侧 | 腰椎塌陷 |
 
 > **顺序**：从大范围 → 小范围，时长约 2–3 min
 
@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 | 动作 | 图示 | 建议量 | 目标肌群 | 常见错误 |
 | --- | --- | --- | --- | --- |
-| 肩胛挤压 | ![挤压]([https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scapular_retraction_back_view.gif/200px-Scapular_retraction_back_view.gif.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJxrmnlaveD1BqVJGGUwK4ytZRYQRp-62_A&s)) | 2–3 秒×12 次 | 菱形肌+中下斜方 | 耸肩、弓背 |
+| 肩胛挤压 | ![挤压](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scapular_retraction_back_view.gif/200px-Scapular_retraction_back_view.gif.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJxrmnlaveD1BqVJGGUwK4ytZRYQRp-62_A&s) | 2–3 秒×12 次 | 菱形肌+中下斜方 | 耸肩、弓背 |
 | 弹力带外旋 | ![外旋](https://liftmanual.com/wp-content/uploads/2023/04/resistance-band-external-rotation.jpg) | 15–20 次/侧 | 冈下肌+小圆肌 | 手肘离体 |
 | 墙面 Y-W 滑动 | ![YW](https://i.imgur.com/PA0HTah.gif) | 12 次 | 下斜方+前锯肌 | 腰椎塌陷 |
 | Band Pull-Apart | ![Pull apart](https://i.imgur.com/voKb6ek.gif) | 15 次 | 后三角+菱形 | 耸肩/借腰 |
