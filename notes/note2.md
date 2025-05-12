@@ -21,6 +21,7 @@ permalink: /notes/note2/
     cursor:pointer;
     box-shadow:0 2px 4px rgba(0,0,0,0.15);
 }
+
 /* 侧边目录 */
 #side-toc{
     position:fixed;
@@ -49,14 +50,22 @@ permalink: /notes/note2/
 .page-content{padding-left:260px;transition:padding-left 0.2s ease;}
 body.toc-collapsed .page-content{padding-left:40px;}
 
-/* 图片统一限制（大图）*/
+/* 图片统一限制（大图） */
 .page-content img{
     max-width:480px;
     max-height:480px;
     width:auto;
     height:auto;
 }
+
+/* ✅ 肌群表中图片强制尺寸（覆盖 GitHub Pages 限制） */
+.muscle-table img {
+    width: 150px !important;
+    height: auto !important;
+    max-width: unset !important;
+}
 </style>
+
 
 <!-- ----------  目录按钮  ---------- -->
 <button id="toc-toggle">📑 目录</button>
