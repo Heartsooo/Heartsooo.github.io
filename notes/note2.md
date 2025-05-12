@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 | 肱盂关节 (GH) | ![GH](https://teachmeanatomy.info/wp-content/uploads/Articulating-Surfaces-of-the-Shoulder-Joint-600x481.jpg.webp) | 球窝关节，多轴最灵活；易脱位。 |
 | 肩锁关节 (AC) | ![AC](https://teachmeanatomy.info/wp-content/uploads/Articulating-Surfaces-of-the-Acromioclavicular-Joint.jpg.webp) | 平面滑动，肩胛上旋/下旋枢纽。 |
 | 胸锁关节 (SC) | ![SC](https://teachmeanatomy.info/wp-content/uploads/Articulating-Surfaces-of-the-Sternoclavicular-Joint-600x248.jpg.webp) | 鞍状-球窝，上肢唯一骨性连接躯干。 |
-| 肩胛胸壁 (ST) | ![ST](https://i.imgur.com/zMxNYkG.png) | 功能滑动面，稳定肩胛→肩健康核心。 |
+
 
 ---
 
@@ -161,19 +161,37 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 ### 动态拉伸（Dynamic Stretching） {#动态拉伸dynamic-stretching}
 
-| 动作 | 图示 | 要点 |
-| --- | --- | --- |
-| 肩环绕 | ![环绕](https://i.imgur.com/BKXFcNK.png) | 前后各 15 圈，放松肩周。 |
-| 猫牛式 | ![猫牛](https://commons.wikimedia.org/wiki/Special:FilePath/Yoga_at_Your_Park_-_Bitilasana.jpg) | 拱背/塌背，各 10–15 次，唤醒脊柱。 |
+| 动作 | 图示 | 要点 | 常见错误 |
+| --- | --- | --- | --- |
+| 肩环绕 | ![环绕](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Arm_circles.gif/200px-Arm_circles.gif.png) | 手臂略屈肘，前后各 15 圈 | 缩脖耸肩 |
+| 猫牛式 | ![猫牛](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cat-Cow_Pose.jpg/200px-Cat-Cow_Pose.jpg) | 拱背-塌背 10–15 次 | 颈部过度仰伸 |
+| 站姿胸开合 | ![胸开合](https://i.imgur.com/LlT0pjP.gif) | 双臂水平打开↔抱胸 15 次 | 腰部代偿 |
+| 体侧弯+转体 | ![侧弯](https://i.imgur.com/Dh1OZ6q.gif) | 左右侧弯→旋转各 8 次 | 骨盆偏移 |
+| 鸟狗式动态 | ![鸟狗](https://i.imgur.com/jdocafV.gif) | 对侧伸展 8–10 次/侧 | 腰椎塌陷 |
+
+> **顺序**：从大范围 → 小范围，时长约 2–3 min
+
+---
 
 ### 激活练习（Activation Drills） {#激活练习activation-drills}
 
-| 动作 | 图示 | 要点 |
-| --- | --- | --- |
-| 肩胛挤压 | ![挤压](https://commons.wikimedia.org/wiki/Special:FilePath/Scapular_retraction_brace_FSHD.png) | 2–3 秒 × 12 次，激活中下斜方 + 菱形肌。 |
-| 弹力带外旋 | ![外旋](https://i.imgur.com/HbV1iZ7.png) | 15–20 次/侧，唤醒旋转袖。 |
+| 动作 | 图示 | 建议量 | 目标肌群 | 常见错误 |
+| --- | --- | --- | --- | --- |
+| 肩胛挤压 | ![挤压](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scapular_retraction_back_view.gif/200px-Scapular_retraction_back_view.gif.png) | 2–3 秒×12 次 | 菱形肌+中下斜方 | 耸肩、弓背 |
+| 弹力带外旋 | ![外旋](https://i.imgur.com/HbV1iZ7.png) | 15–20 次/侧 | 冈下肌+小圆肌 | 手肘离体 |
+| 墙面 Y-W 滑动 | ![YW](https://i.imgur.com/PA0HTah.gif) | 12 次 | 下斜方+前锯肌 | 腰椎塌陷 |
+| Band Pull-Apart | ![Pull apart](https://i.imgur.com/voKb6ek.gif) | 15 次 | 后三角+菱形 | 耸肩/借腰 |
+| 俯身肩胛伸展 (Scap Push-up) | ![Scap pushup](https://i.imgur.com/wGP9t7X.gif) | 10–12 次 | 前锯肌 | 肘关节弯曲 |
+| 轻杠前后肩推 | ![空杆推](https://i.imgur.com/baqt4KI.gif) | 2 组 × 10 次 | 全束三角肌 | 抬肩、腰弓 |
 
-> **热身总时长 5–8 分钟**：动态拉伸→激活→空杆推举 2 组预热。
+> **激活总时长 3–5 min**：无痛区间完成，控制节奏 → 进入正式训练
+
+---
+
+> **完整热身流程示例（≈ 8 min）**  
+> 1. *动态拉伸*（肩环绕 → 猫牛 → 胸开合 → 体侧弯 → 鸟狗式）  
+> 2. *激活练习*（肩胛挤压 → Band Pull-Apart → 弹力带外旋 → 墙面 Y-W → Scap Push-up → 轻杠肩推）  
+> 3. 休息 60 s，开始工作组
 
 ---
 
