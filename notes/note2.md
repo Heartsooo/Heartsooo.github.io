@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 | 肌群 | 肌群照片 | 主要功能 | 资料链接 |
 | --- | --- | --- | --- |
-| 前束三角肌<br>*Anterior Deltoid* | <img src="/assets/img/deltoid_anterior.png" width="90"/> | 肩屈曲、水平内收 | <https://exrx.net/Muscles/DeltoidAnterior> |
+| 前束三角肌<br>*Anterior Deltoid* | <img src="/assets/img/deltoid_anterior.png" width="200"/> | 肩屈曲、水平内收 | <https://exrx.net/Muscles/DeltoidAnterior> |
 | 中束三角肌<br>*Lateral Deltoid* | <img src="/assets/img/deltoid_lateral.png" width="90"/> | 0–90° 肩外展主力 | <https://exrx.net/Muscles/DeltoidLateral> |
 | 后束三角肌<br>*Posterior Deltoid* | <img src="/assets/img/deltoid_posterior.png" width="90"/> | 肩水平外展 / 外旋 | <https://exrx.net/Muscles/DeltoidPosterior> |
 | 冈上肌 *Supraspinatus* | <img src="/assets/img/supraspinatus.png" width="90"/> | 起始外展、稳定肱骨头 | <https://exrx.net/Muscles/Supraspinatus> |
