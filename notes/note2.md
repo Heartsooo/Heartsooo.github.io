@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 ## 🎯 练肩训练动作及要领 {#练肩训练动作及要领}
 
 ### 哑铃侧平举 (Lateral Raise) {#哑铃侧平举lateral-raise}
-![侧平举](https://i.imgur.com/3vWq4td.png)
+![侧平举](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_4N3ZloOKBOXRFORTTVEWdnR2FO3jmZSIQ&s)
 
 - **主要目标**：三角肌中束  
 - **推荐剂量**：4 组 × 12–15 次 &nbsp;|&nbsp; RPE 7–8  
@@ -227,7 +227,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 ---
 
 ### 哑铃前平举 (Front Raise) {#哑铃前平举front-raise}
-![前平举](https://i.imgur.com/2TkBimx.png)
+![前平举](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwACSYf-VKGkiTm6v4K-8uAi7XRaSePMbJw&s)
 
 - **主要目标**：三角肌前束  
 - **推荐剂量**：3 组 × 10–12 次 &nbsp;|&nbsp; RPE 7  
@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 ---
 
 ### 俯身反向飞鸟 (Rear Delt Fly) {#俯身反向飞鸟rear-delt-fly}
-![飞鸟](https://i.imgur.com/Cc2j1vZ.png)
+![飞鸟](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXlSvdeC2wBAwVUr97JZs8eqI7HpOfViHDw&s)
 
 - **主要目标**：三角肌后束、冈下肌、小圆肌  
 - **推荐剂量**：4 组 × 12 次 &nbsp;|&nbsp; RPE 8  
@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 ---
 
 ### 杠铃肩上推 (Overhead Press) {#杠铃肩上推overhead-press}
-![OHP](https://i.imgur.com/yhG7qop.png)
+![OHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkMk1pZ3d3tweRktSfEQNfEj95HEu5gh--g&s)
 
 - **主要目标**：三角肌全束、上胸锁骨束、肱三头  
 - **推荐剂量**：5 组 × 5–8 次 &nbsp;|&nbsp; 80–85 % 1RM  
