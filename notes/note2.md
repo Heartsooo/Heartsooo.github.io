@@ -164,12 +164,31 @@ document.addEventListener('DOMContentLoaded',()=>{
 | 动作 | 图示 | 要点 | 常见错误 |
 | --- | --- | --- | --- |
 | 肩环绕 | ![环绕](https://www.spotebi.com/wp-content/uploads/2014/10/arm-circles-exercise-illustration.jpg) | 手臂略屈肘，前后各 15 圈 | 缩脖耸肩 |
-| 猫牛式 | ![猫牛](https://media1.popsugar-assets.com/files/thumbor/q1cA6Es2iZQ4gCrRKcIZlqr5MrQ=/fit-in/792x792/filters:format_auto():upscale()/2025/01/10/960/n/1922729/tmp_TSf6dQ_46ee51111cabbf45_PS24_Fitness_CatCow_Horizontal.jpg) | 拱背-塌背 10–15 次 | 颈部过度仰伸 |
-| 站姿胸开合 | ![胸开合](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3TuevlsvUZFYTpQCgSLP9CRehRzNU84CKQ&s) | 双臂水平打开↔抱胸 15 次 | 腰部代偿 |
-| 体侧弯+转体 | ![侧弯](https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi.jpg) | 左右侧弯→旋转各 8 次 | 骨盆偏移 |
-| 鸟狗式动态 | ![鸟狗](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NsPxDQcH2fSFgARBlUK8WID89CN7ETcX1w&s) | 对侧伸展 8–10 次/侧 | 腰椎塌陷 |
+<details><summary>动作要领</summary>
+站姿或坐姿，手臂向两侧平举略屈肘；绘制小圆 → 大圆，动作流畅；保持肩膀放松、颈部中立，可搭配呼吸节奏进行，避免耸肩代偿。
+</details>
 
-> **顺序**：从大范围 → 小范围，时长约 2–3 min
+| 猫牛式 | ![猫牛](https://media1.popsugar-assets.com/files/thumbor/q1cA6Es2iZQ4gCrRKcIZlqr5MrQ=/fit-in/792x792/filters:format_auto():upscale()/2025/01/10/960/n/1922729/tmp_TSf6dQ_46ee51111cabbf45_PS24_Fitness_CatCow_Horizontal.jpg) | 拱背-塌背 10–15 次 | 颈部过度仰伸 |
+<details><summary>动作要领</summary>
+四点跪姿，吸气塌腰抬头（牛式）、呼气拱背收腹（猫式）；动作温和，配合呼吸，引导脊柱逐节运动。
+</details>
+
+| 站姿胸开合 | ![胸开合](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3TuevlsvUZFYTpQCgSLP9CRehRzNU84CKQ&s) | 双臂水平打开↔抱胸 15 次 | 腰部代偿 |
+<details><summary>动作要领</summary>
+双手臂水平打开 → 向前交叉抱胸；重复进行，肩胛自然滑动；注意保持腰椎中立，不要借力后仰。
+</details>
+
+| 体侧弯+转体 | ![侧弯](https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi.jpg) | 左右侧弯→旋转各 8 次 | 骨盆偏移 |
+<details><summary>动作要领</summary>
+手抱头或举起向上，向左右两侧依次侧屈，随后轻柔转体；脊柱自然延展，注意骨盆不跟随转动。
+</details>
+
+| 鸟狗式动态 | ![鸟狗](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NsPxDQcH2fSFgARBlUK8WID89CN7ETcX1w&s) | 对侧伸展 8–10 次/侧 | 腰椎塌陷 |
+<details><summary>动作要领</summary>
+四点支撑，右手+左脚向前后伸展，收回后换边；保持核心稳定，眼睛看地板，避免塌腰转髋。
+</details>
+
+> **顺序建议**：从大范围 → 小范围，控制节奏，时长约 2–3 分钟。
 
 ---
 
@@ -178,21 +197,36 @@ document.addEventListener('DOMContentLoaded',()=>{
 | 动作 | 图示 | 建议量 | 目标肌群 | 常见错误 |
 | --- | --- | --- | --- | --- |
 | 肩胛挤压 | ![挤压](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJxrmnlaveD1BqVJGGUwK4ytZRYQRp-62_A&s) | 2–3 秒×12 次 | 菱形肌+中下斜方 | 耸肩、弓背 |
+<details><summary>动作要领</summary>
+自然站立或坐姿，背部挺直，主动收紧肩胛骨；不要夹肩膀，手臂可自然垂下或 90° 抬起。
+</details>
+
 | 弹力带外旋 | ![外旋](https://liftmanual.com/wp-content/uploads/2023/04/resistance-band-external-rotation.jpg) | 15–20 次/侧 | 冈下肌+小圆肌 | 手肘离体 |
+<details><summary>动作要领</summary>
+上臂贴身、肘弯 90°，前臂旋外；弹力带来自中线拉至外侧；保持肘部固定不离体。
+</details>
+
 | 墙面 Y-W 滑动 | ![YW](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzBOdCExf-HjLfANMt00D0cF_j52P9X1X7g&s) | 12 次 | 下斜方+前锯肌 | 腰椎塌陷 |
+<details><summary>动作要领</summary>
+靠墙站立，双臂成 “Y” 展开，缓缓滑落为 “W”；保持背贴墙，躯干中立，不可拱腰或抬肩。
+</details>
+
 | Band Pull-Apart | ![Pull apart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNcdfIS1XEAvPu9lw_V_pPYSB6qkR7-kDh6w&s) | 15 次 | 后三角+菱形 | 耸肩/借腰 |
+<details><summary>动作要领</summary>
+弹力带与肩齐平或略低，平行拉开至双手张开；肩胛骨收紧，控制回程速度，注意核心稳定。
+</details>
+
 | 俯身肩胛伸展 (Scap Push-up) | ![Scap pushup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmx0TX4kU_H01OSkB4CODNQouz4_WT-Luow&s) | 10–12 次 | 前锯肌 | 肘关节弯曲 |
-
-> **激活总时长 3–5 min**：无痛区间完成，控制节奏 → 进入正式训练
+<details><summary>动作要领</summary>
+俯卧撑姿势，手臂保持伸直；塌肩（肩胛靠近）→撑起（肩胛外展）；感受肩胛骨滑动，不屈肘。
+</details>
 
 ---
 
-> **完整热身流程示例（≈ 8 min）**  
-> 1. *动态拉伸*（肩环绕 → 猫牛 → 胸开合 → 体侧弯 → 鸟狗式）  
-> 2. *激活练习*（肩胛挤压 → Band Pull-Apart → 弹力带外旋 → 墙面 Y-W → Scap Push-up → 轻杠肩推）  
+> **完整热身流程推荐（≈ 8 分钟）**  
+> 1. *动态拉伸*（肩环绕 → 猫牛式 → 胸开合 → 体侧弯 → 鸟狗）  
+> 2. *激活练习*（肩胛挤压 → Band Pull-Apart → 外旋 → Y-W → Scap Push-up → 轻杠肩推）  
 > 3. 休息 60 s，开始工作组
-
----
 
 
 ## 🎯 练肩训练动作及要领 {#练肩训练动作及要领}
