@@ -275,11 +275,24 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 | 动作 | 图示 | 说明 |
 | --- | --- | --- |
-| 上斜方肌拉伸 | ![斜方](https://img.youtube.com/vi/-r0eoFS7_5Q/0.jpg) | 手轻压头侧，拉伸 20 秒 / 2 组 |
-| 旋转袖串锁 | ![袖](https://i.imgur.com/w0TCZoa.png) | 牵拉手臂向后上方，保持 20 秒 |
-| 门框拉伸 | ![门框](https://i.imgur.com/hMo2t9y.png) | 前束、胸小肌放松 |
+| 上斜方肌拉伸 <br>*Upper Traps Stretch* | ![斜方](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMs3CcJXk-Aj-89ZRz0f7-BwUY5l4Wa0pPQ&s) | 手轻扶头部侧面向下拉，另一手自然下垂或反手压住座椅，保持 20–30 秒 / 每侧 2 组。<br>📌 **要点**：避免耸肩、动作缓慢、颈椎保持中立。<br>🎯 **目标肌群**：上斜方肌 + 提肩肌<br>⚠️ **错误**：低头代偿、拽脖子过猛。 |
+| 旋转袖串锁 <br>*Towel Shoulder Stretch* | ![串锁](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sNRH4kbrHJ8sDorT7waS5cgTiS6OsNAcpQ&s) | 单手从上、另一只手从背后握毛巾，主动下拉上手牵引拉伸。保持 20 秒，每侧 2–3 次。<br>📌 **要点**：贴背走线、避免耸肩、拉力温和。<br>🎯 **目标肌群**：肩胛下肌 + 小圆肌<br>⚠️ **错误**：强行贴背、脊柱弯曲代偿。 |
+| 门框拉伸 <br>*Doorway Pec Stretch* | ![门框](https://api.kramesstaywell.com/Content/6066ca30-310a-4170-b001-a4ab013d61fd/ucr-images-v1/Images/woman-standing-in-doorway-doing-pectoral-stretch-exercise-357843) | 一脚踏前、手肘弯曲 90° 贴门框，胸腔前移产生拉伸感。保持 20–30 秒 / 每侧 2 组。<br>📌 **要点**：躯干稳定不转动，感受前胸张开。<br>🎯 **目标肌群**：胸大肌（锁骨束 + 胸骨束）、前束三角肌<br>⚠️ **错误**：头探前、腰椎前凸。 |
+| 后三角拉伸 <br>*Posterior Deltoid Stretch* | ![后束](https://liftmanual.com/wp-content/uploads/2023/04/rear-deltoid-stretch.jpg) | 一手横抱胸前，对侧手轻压手肘内侧，保持 20–30 秒 / 每侧。<br>📌 **要点**：肩下沉不耸、上臂与地面平行。<br>🎯 **目标肌群**：后束三角肌、冈下肌、小圆肌<br>⚠️ **错误**：压得太低或手掌贴胸，影响拉伸效果。 |
+| 腋前大圆肌拉伸 <br>*Overhead Lat Stretch* | ![背阔](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmEuIjHft6FZi3GrwPZ-VGRx2rCa3Qko3Yw&s) | 双手上举，单手握另一手腕向对侧上方拉伸，保持 20–30 秒。<br>📌 **要点**：骨盆稳定、感觉腋下到背部拉伸。<br>🎯 **目标肌群**：背阔肌、大圆肌、肩胛提肌<br>⚠️ **错误**：躯干扭转、代偿弯腰。 |
+| 墙面滑移拉伸 <br>*Wall Slide Pec/Shoulder Stretch* | ![墙滑](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXKxs7qDfADKFG1nbxPPYX9CeObKfOpv8Eg&s) | 背部贴墙，肘关节与肩水平，缓慢滑动手臂向上延伸，感受胸肩开放。<br>📌 **要点**：腰贴墙、肩胛贴墙、缓慢动作。<br>🎯 **目标肌群**：胸大肌、前锯肌、三角肌全束<br>⚠️ **错误**：耸肩、手肘离墙、过度代偿。 |
 
 ---
+
+> ✅ **练后拉伸建议**：
+> - 每个动作保持 20–30 秒
+> - 每个方向 1–2 次为宜
+> - 配合腹式呼吸，控制强度避免疼痛感
+
+> 💡 **进阶建议**：  
+> - 可结合泡沫轴滚压（胸大肌、背阔肌）进一步放松  
+> - 拉伸完后如仍紧张，可采用 PNF 拉伸（主被动交替）增强效果
+
 
 ## 📚 参考资料与工具
 
