@@ -104,25 +104,43 @@ document.addEventListener('DOMContentLoaded',()=>{
 # 练肩笔记 · 肩部解剖 + 训练动作
 ---
 
-## 🏋️‍♂️ 主要肌群（带图）
+## 📑 肩带 / 肩关节肌群
 
-### 前三角肌（Anterior Deltoid） {#前三角肌anterior-deltoid}
-![前三角肌](https://i.imgur.com/34f5Tfa.png)  
-- 主要功能：肩屈曲、水平内收  
-
-### 中三角肌（Lateral Deltoid） {#中三角肌lateral-deltoid}
-![中三角肌](https://i.imgur.com/9uUFU6W.png)  
-- 主要功能：肩外展（90°以内主力）  
-
-### 后三角肌（Posterior Deltoid） {#后三角肌posterior-deltoid}
-![后三角肌](https://i.imgur.com/rfb6h9b.png)  
-- 主要功能：水平外展、肩外旋  
-
-### 旋转袖肌群（Rotator Cuff） {#旋转袖肌群rotator-cuff}
-![旋转袖](https://i.imgur.com/pzEcYVr.png)  
-- 冈上肌 / 冈下肌 / 小圆肌 / 肩胛下肌 —— **稳定肱盂关节**、控制内外旋  
+| 肌群 | 肌群照片 | 主要功能 | 资料链接 |
+| --- | --- | --- | --- |
+| 前束三角肌 <br> *Anterior Deltoid* | <img src="/assets/img/deltoid_anterior.png" width="120"/> | 肩屈曲、水平内收 | <https://exrx.net/Muscles/DeltoidAnterior> |
+| 中束三角肌 <br>*Lateral Deltoid* | <img src="/assets/img/deltoid_lateral.png" width="120"/> | 0–90° 肩外展主力 | <https://exrx.net/Muscles/DeltoidLateral> |
+| 后束三角肌 <br>*Posterior Deltoid* | <img src="/assets/img/deltoid_posterior.png" width="120"/> | 肩水平外展 / 外旋 | <https://exrx.net/Muscles/DeltoidPosterior> |
+| 冈上肌 *Supraspinatus* | <img src="/assets/img/supraspinatus.png" width="120"/> | 起始外展、稳定肱骨头 | <https://exrx.net/Muscles/Supraspinatus> |
+| 冈下肌 *Infraspinatus* | <img src="/assets/img/infraspinatus.png" width="120"/> | 肩外旋、后侧稳定 | <https://exrx.net/Muscles/Infraspinatus> |
+| 小圆肌 *Teres Minor* | <img src="/assets/img/teres_minor.png" width="120"/> | 肩外旋、协同稳定 | <https://exrx.net/Muscles/TeresMinor> |
+| 肩胛下肌 *Subscapularis* | <img src="/assets/img/subscapularis.png" width="120"/> | 肩内旋、稳定前方 | <https://exrx.net/Muscles/Subscapularis> |
+| 大圆肌 *Teres Major* | <img src="/assets/img/teres_major.png" width="120"/> | 肩内收、伸展、内旋 | <https://exrx.net/Muscles/TeresMajor> |
+| 胸大肌 (锁骨束) <br>*Pec Major Clav.* | <img src="/assets/img/pec_major_clav.png" width="120"/> | 水平内收、肩屈曲 | <https://exrx.net/Muscles/PectoralisClavicular> |
+| 胸大肌 (胸骨束) <br>*Pec Major Sternal* | <img src="/assets/img/pec_major_stern.png" width="120"/> | 水平内收、肩伸展 | <https://exrx.net/Muscles/PectoralisSternal> |
+| 胸小肌 *Pectoralis Minor* | <img src="/assets/img/pec_minor.png" width="120"/> | 肩胛前倾、下移 | <https://exrx.net/Muscles/PectoralisMinor> |
+| 前锯肌 *Serratus Anterior* | <img src="/assets/img/serratus_anterior.png" width="120"/> | 肩胛前伸、上旋、固定 | <https://exrx.net/Muscles/SerratusAnterior> |
+| Latissimus Dorsi | <img src="/assets/img/latissimus_dorsi.png" width="120"/> | 肩伸展、内收、内旋；下拉主力 | <https://exrx.net/Muscles/LatissimusDorsi> |
+| Coracobrachialis | <img src="/assets/img/coracobrachialis.png" width="120"/> | 辅助肩屈曲 / 内收 | <https://exrx.net/Muscles/Coracobrachialis> |
+| 斜方肌（上） *Upper Traps* | <img src="/assets/img/traps_upper.png" width="120"/> | 肩胛提升、颈伸展 | <https://exrx.net/Muscles/TrapeziusUpper> |
+| 斜方肌（中） *Mid Traps* | <img src="/assets/img/traps_middle.png" width="120"/> | 肩胛内收 | <https://exrx.net/Muscles/TrapeziusMiddle> |
+| 斜方肌（下） *Lower Traps* | <img src="/assets/img/traps_lower.png" width="120"/> | 肩胛下压、上旋 | <https://exrx.net/Muscles/TrapeziusLower> |
+| 菱形肌 *Rhomboids* | <img src="/assets/img/rhomboids.png" width="120"/> | 肩胛内收、下旋 | <https://exrx.net/Muscles/Rhomboids> |
+| Levator Scapulae | <img src="/assets/img/levator_scapulae.png" width="120"/> | 肩胛提升、颈侧屈 | <https://exrx.net/Muscles/LevatorScapulae> |
 
 ---
+
+## 💪 上臂 / 前臂肌群
+
+| 肌群 | 肌群照片 | 主要功能 | 资料链接 |
+| --- | --- | --- | --- |
+| 肱二头肌 *Biceps Brachii* | <img src="/assets/img/biceps_brachii.png" width="120"/> | 肘屈曲、旋后、肩屈曲 | <https://exrx.net/Muscles/BicepsBrachii> |
+| 肱肌 *Brachialis* | <img src="/assets/img/brachialis.png" width="120"/> | 肘屈曲（任何前臂位） | <https://exrx.net/Muscles/Brachialis> |
+| 肱桡肌 *Brachioradialis* | <img src="/assets/img/brachioradialis.png" width="120"/> | 肘屈曲（半旋位最强） | <https://exrx.net/Muscles/Brachioradialis> |
+| 肱三头肌 *Triceps Brachii* | <img src="/assets/img/triceps_brachii.png" width="120"/> | 肘伸、肩伸 | <https://exrx.net/Muscles/TricepsBrachii> |
+| Wrist Extensors | <img src="/assets/img/wrist_extensors.png" width="120"/> | 手腕背伸、握力稳定 | <https://exrx.net/Muscles/WristExtensors> |
+| Wrist Flexors | <img src="/assets/img/wrist_flexors.png" width="120"/> | 手腕屈曲、握力发力 | <https://exrx.net/Muscles/WristFlexors> |
+
 
 ## 🦴 关键关节（带图） {#关键关节带图}
 
