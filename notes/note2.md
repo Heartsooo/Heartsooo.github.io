@@ -21,7 +21,6 @@ permalink: /notes/note2/
     cursor:pointer;
     box-shadow:0 2px 4px rgba(0,0,0,0.15);
 }
-
 /* 侧边目录 */
 #side-toc{
     position:fixed;
@@ -50,7 +49,7 @@ permalink: /notes/note2/
 .page-content{padding-left:260px;transition:padding-left 0.2s ease;}
 body.toc-collapsed .page-content{padding-left:40px;}
 
-/* 图片统一限制 */
+/* 图片统一限制（大图）*/
 .page-content img{
     max-width:480px;
     max-height:480px;
@@ -65,13 +64,13 @@ body.toc-collapsed .page-content{padding-left:40px;}
 <!-- ----------  JS 控制  ---------- -->
 <script>
 document.addEventListener('DOMContentLoaded',()=>{
-    const toc = document.getElementById('side-toc');
-    const btn = document.getElementById('toc-toggle');
-    btn.addEventListener('click',()=>{
-        toc.classList.toggle('collapsed');
-        document.body.classList.toggle('toc-collapsed');
-        btn.textContent = toc.classList.contains('collapsed') ? '📑 目录' : '✖ 关闭目录';
-    });
+  const toc=document.getElementById('side-toc');
+  const btn=document.getElementById('toc-toggle');
+  btn.addEventListener('click',()=>{
+    toc.classList.toggle('collapsed');
+    document.body.classList.toggle('toc-collapsed');
+    btn.textContent=toc.classList.contains('collapsed')?'📑 目录':'✖ 关闭目录';
+  });
 });
 </script>
 
@@ -79,17 +78,12 @@ document.addEventListener('DOMContentLoaded',()=>{
 <div id="side-toc">
 <strong>目录</strong>
 <ul>
-  <li><a href="#主要肌群带图">主要肌群</a>
-    <ul>
-      <li><a href="#前三角肌anterior-deltoid">前三角肌</a></li>
-      <li><a href="#中三角肌lateral-deltoid">中三角肌</a></li>
-      <li><a href="#后三角肌posterior-deltoid">后三角肌</a></li>
-      <li><a href="#旋转袖肌群rotator-cuff">旋转袖肌群</a></li>
-    </ul>
-  </li>
+  <li><a href="#肩带肌群">肩带/肩关节肌群</a></li>
+  <li><a href="#上臂肌群">上臂/前臂肌群</a></li>
   <li><a href="#关键关节带图">关键关节</a></li>
   <li><a href="#练肩热身激活动作">热身与激活</a></li>
-  <li><a href="#练肩训练动作及要领">训练动作</a>
+  <li>
+    <a href="#练肩训练动作及要领">训练动作</a>
     <ul>
       <li><a href="#哑铃侧平举lateral-raise">哑铃侧平举</a></li>
       <li><a href="#哑铃前平举front-raise">哑铃前平举</a></li>
@@ -98,49 +92,51 @@ document.addEventListener('DOMContentLoaded',()=>{
     </ul>
   </li>
   <li><a href="#练后拉伸动作">放松拉伸</a></li>
+  <li><a href="#参考资料与工具">参考资料</a></li>
 </ul>
 </div>
 
 # 练肩笔记 · 肩部解剖 + 训练动作
 ---
 
-## 📑 肩带 / 肩关节肌群
+## 📑 肩带 / 肩关节肌群 {#肩带肌群}
 
 | 肌群 | 肌群照片 | 主要功能 | 资料链接 |
 | --- | --- | --- | --- |
-| 前束三角肌 <br> *Anterior Deltoid* | <img src="/assets/img/deltoid_anterior.png" width="120"/> | 肩屈曲、水平内收 | <https://exrx.net/Muscles/DeltoidAnterior> |
-| 中束三角肌 <br>*Lateral Deltoid* | <img src="/assets/img/deltoid_lateral.png" width="120"/> | 0–90° 肩外展主力 | <https://exrx.net/Muscles/DeltoidLateral> |
-| 后束三角肌 <br>*Posterior Deltoid* | <img src="/assets/img/deltoid_posterior.png" width="120"/> | 肩水平外展 / 外旋 | <https://exrx.net/Muscles/DeltoidPosterior> |
-| 冈上肌 *Supraspinatus* | <img src="/assets/img/supraspinatus.png" width="120"/> | 起始外展、稳定肱骨头 | <https://exrx.net/Muscles/Supraspinatus> |
-| 冈下肌 *Infraspinatus* | <img src="/assets/img/infraspinatus.png" width="120"/> | 肩外旋、后侧稳定 | <https://exrx.net/Muscles/Infraspinatus> |
-| 小圆肌 *Teres Minor* | <img src="/assets/img/teres_minor.png" width="120"/> | 肩外旋、协同稳定 | <https://exrx.net/Muscles/TeresMinor> |
-| 肩胛下肌 *Subscapularis* | <img src="/assets/img/subscapularis.png" width="120"/> | 肩内旋、稳定前方 | <https://exrx.net/Muscles/Subscapularis> |
-| 大圆肌 *Teres Major* | <img src="/assets/img/teres_major.png" width="120"/> | 肩内收、伸展、内旋 | <https://exrx.net/Muscles/TeresMajor> |
-| 胸大肌 (锁骨束) <br>*Pec Major Clav.* | <img src="/assets/img/pec_major_clav.png" width="120"/> | 水平内收、肩屈曲 | <https://exrx.net/Muscles/PectoralisClavicular> |
-| 胸大肌 (胸骨束) <br>*Pec Major Sternal* | <img src="/assets/img/pec_major_stern.png" width="120"/> | 水平内收、肩伸展 | <https://exrx.net/Muscles/PectoralisSternal> |
-| 胸小肌 *Pectoralis Minor* | <img src="/assets/img/pec_minor.png" width="120"/> | 肩胛前倾、下移 | <https://exrx.net/Muscles/PectoralisMinor> |
-| 前锯肌 *Serratus Anterior* | <img src="/assets/img/serratus_anterior.png" width="120"/> | 肩胛前伸、上旋、固定 | <https://exrx.net/Muscles/SerratusAnterior> |
-| Latissimus Dorsi | <img src="/assets/img/latissimus_dorsi.png" width="120"/> | 肩伸展、内收、内旋；下拉主力 | <https://exrx.net/Muscles/LatissimusDorsi> |
-| Coracobrachialis | <img src="/assets/img/coracobrachialis.png" width="120"/> | 辅助肩屈曲 / 内收 | <https://exrx.net/Muscles/Coracobrachialis> |
-| 斜方肌（上） *Upper Traps* | <img src="/assets/img/traps_upper.png" width="120"/> | 肩胛提升、颈伸展 | <https://exrx.net/Muscles/TrapeziusUpper> |
-| 斜方肌（中） *Mid Traps* | <img src="/assets/img/traps_middle.png" width="120"/> | 肩胛内收 | <https://exrx.net/Muscles/TrapeziusMiddle> |
-| 斜方肌（下） *Lower Traps* | <img src="/assets/img/traps_lower.png" width="120"/> | 肩胛下压、上旋 | <https://exrx.net/Muscles/TrapeziusLower> |
-| 菱形肌 *Rhomboids* | <img src="/assets/img/rhomboids.png" width="120"/> | 肩胛内收、下旋 | <https://exrx.net/Muscles/Rhomboids> |
-| Levator Scapulae | <img src="/assets/img/levator_scapulae.png" width="120"/> | 肩胛提升、颈侧屈 | <https://exrx.net/Muscles/LevatorScapulae> |
+| 前束三角肌<br>*Anterior Deltoid* | <img src="/assets/img/deltoid_anterior.png" width="90"/> | 肩屈曲、水平内收 | <https://exrx.net/Muscles/DeltoidAnterior> |
+| 中束三角肌<br>*Lateral Deltoid* | <img src="/assets/img/deltoid_lateral.png" width="90"/> | 0–90° 肩外展主力 | <https://exrx.net/Muscles/DeltoidLateral> |
+| 后束三角肌<br>*Posterior Deltoid* | <img src="/assets/img/deltoid_posterior.png" width="90"/> | 肩水平外展 / 外旋 | <https://exrx.net/Muscles/DeltoidPosterior> |
+| 冈上肌 *Supraspinatus* | <img src="/assets/img/supraspinatus.png" width="90"/> | 起始外展、稳定肱骨头 | <https://exrx.net/Muscles/Supraspinatus> |
+| 冈下肌 *Infraspinatus* | <img src="/assets/img/infraspinatus.png" width="90"/> | 肩外旋、后侧稳定 | <https://exrx.net/Muscles/Infraspinatus> |
+| 小圆肌 *Teres Minor* | <img src="/assets/img/teres_minor.png" width="90"/> | 肩外旋、协同稳定 | <https://exrx.net/Muscles/TeresMinor> |
+| 肩胛下肌 *Subscapularis* | <img src="/assets/img/subscapularis.png" width="90"/> | 肩内旋、稳定前方 | <https://exrx.net/Muscles/Subscapularis> |
+| 大圆肌 *Teres Major* | <img src="/assets/img/teres_major.png" width="90"/> | 肩内收、伸展、内旋 | <https://exrx.net/Muscles/TeresMajor> |
+| 胸大肌 (锁骨束)<br>*Pec Major Clav.* | <img src="/assets/img/pec_major_clav.png" width="90"/> | 水平内收、肩屈曲 | <https://exrx.net/Muscles/PectoralisClavicular> |
+| 胸大肌 (胸骨束)<br>*Pec Major Sternal* | <img src="/assets/img/pec_major_stern.png" width="90"/> | 水平内收、肩伸展 | <https://exrx.net/Muscles/PectoralisSternal> |
+| 胸小肌 *Pectoralis Minor* | <img src="/assets/img/pec_minor.png" width="90"/> | 肩胛前倾、下移 | <https://exrx.net/Muscles/PectoralisMinor> |
+| 前锯肌 *Serratus Anterior* | <img src="/assets/img/serratus_anterior.png" width="90"/> | 肩胛前伸、上旋、固定 | <https://exrx.net/Muscles/SerratusAnterior> |
+| Latissimus Dorsi | <img src="/assets/img/latissimus_dorsi.png" width="90"/> | 肩伸展、内收、内旋；下拉主力 | <https://exrx.net/Muscles/LatissimusDorsi> |
+| Coracobrachialis | <img src="/assets/img/coracobrachialis.png" width="90"/> | 辅助肩屈曲 / 内收 | <https://exrx.net/Muscles/Coracobrachialis> |
+| 斜方肌（上）*Upper Traps* | <img src="/assets/img/traps_upper.png" width="90"/> | 肩胛提升、颈伸展 | <https://exrx.net/Muscles/TrapeziusUpper> |
+| 斜方肌（中）*Mid Traps* | <img src="/assets/img/traps_middle.png" width="90"/> | 肩胛内收 | <https://exrx.net/Muscles/TrapeziusMiddle> |
+| 斜方肌（下）*Lower Traps* | <img src="/assets/img/traps_lower.png" width="90"/> | 肩胛下压、上旋 | <https://exrx.net/Muscles/TrapeziusLower> |
+| 菱形肌 *Rhomboids* | <img src="/assets/img/rhomboids.png" width="90"/> | 肩胛内收、下旋 | <https://exrx.net/Muscles/Rhomboids> |
+| Levator Scapulae | <img src="/assets/img/levator_scapulae.png" width="90"/> | 肩胛提升、颈侧屈 | <https://exrx.net/Muscles/LevatorScapulae> |
 
 ---
 
-## 💪 上臂 / 前臂肌群
+## 💪 上臂 / 前臂肌群 {#上臂肌群}
 
 | 肌群 | 肌群照片 | 主要功能 | 资料链接 |
 | --- | --- | --- | --- |
-| 肱二头肌 *Biceps Brachii* | <img src="/assets/img/biceps_brachii.png" width="120"/> | 肘屈曲、旋后、肩屈曲 | <https://exrx.net/Muscles/BicepsBrachii> |
-| 肱肌 *Brachialis* | <img src="/assets/img/brachialis.png" width="120"/> | 肘屈曲（任何前臂位） | <https://exrx.net/Muscles/Brachialis> |
-| 肱桡肌 *Brachioradialis* | <img src="/assets/img/brachioradialis.png" width="120"/> | 肘屈曲（半旋位最强） | <https://exrx.net/Muscles/Brachioradialis> |
-| 肱三头肌 *Triceps Brachii* | <img src="/assets/img/triceps_brachii.png" width="120"/> | 肘伸、肩伸 | <https://exrx.net/Muscles/TricepsBrachii> |
-| Wrist Extensors | <img src="/assets/img/wrist_extensors.png" width="120"/> | 手腕背伸、握力稳定 | <https://exrx.net/Muscles/WristExtensors> |
-| Wrist Flexors | <img src="/assets/img/wrist_flexors.png" width="120"/> | 手腕屈曲、握力发力 | <https://exrx.net/Muscles/WristFlexors> |
+| 肱二头肌 *Biceps Brachii* | <img src="/assets/img/biceps_brachii.png" width="90"/> | 肘屈曲、旋后、肩屈曲 | <https://exrx.net/Muscles/BicepsBrachii> |
+| 肱肌 *Brachialis* | <img src="/assets/img/brachialis.png" width="90"/> | 肘屈曲（任何前臂位） | <https://exrx.net/Muscles/Brachialis> |
+| 肱桡肌 *Brachioradialis* | <img src="/assets/img/brachioradialis.png" width="90"/> | 肘屈曲（半旋位最强） | <https://exrx.net/Muscles/Brachioradialis> |
+| 肱三头肌 *Triceps Brachii* | <img src="/assets/img/triceps_brachii.png" width="90"/> | 肘伸、肩伸 | <https://exrx.net/Muscles/TricepsBrachii> |
+| Wrist Extensors | <img src="/assets/img/wrist_extensors.png" width="90"/> | 手腕背伸、握力稳定 | <https://exrx.net/Muscles/WristExtensors> |
+| Wrist Flexors | <img src="/assets/img/wrist_flexors.png" width="90"/> | 手腕屈曲、握力发力 | <https://exrx.net/Muscles/WristFlexors> |
 
+---
 
 ## 🦴 关键关节（带图） {#关键关节带图}
 
@@ -166,12 +162,13 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 | 动作 | 图示 | 要点 |
 | --- | --- | --- |
-| 肩胛挤压 | ![挤压](https://commons.wikimedia.org/wiki/Special:FilePath/Scapular_retraction_brace_FSHD.png) | 2–3 秒 x 12 次，激活中下斜方 + 菱形肌。 |
+| 肩胛挤压 | ![挤压](https://commons.wikimedia.org/wiki/Special:FilePath/Scapular_retraction_brace_FSHD.png) | 2–3 秒 × 12 次，激活中下斜方 + 菱形肌。 |
 | 弹力带外旋 | ![外旋](https://i.imgur.com/HbV1iZ7.png) | 15–20 次/侧，唤醒旋转袖。 |
 
 > **热身总时长 5–8 分钟**：动态拉伸→激活→空杆推举 2 组预热。
 
 ---
+
 
 ## 🎯 练肩训练动作及要领 {#练肩训练动作及要领}
 
