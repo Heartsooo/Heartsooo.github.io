@@ -179,10 +179,9 @@ document.addEventListener('DOMContentLoaded',()=>{
 | --- | --- | --- | --- | --- |
 | 肩胛挤压 | ![挤压](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJxrmnlaveD1BqVJGGUwK4ytZRYQRp-62_A&s) | 2–3 秒×12 次 | 菱形肌+中下斜方 | 耸肩、弓背 |
 | 弹力带外旋 | ![外旋](https://liftmanual.com/wp-content/uploads/2023/04/resistance-band-external-rotation.jpg) | 15–20 次/侧 | 冈下肌+小圆肌 | 手肘离体 |
-| 墙面 Y-W 滑动 | ![YW](https://i.imgur.com/PA0HTah.gif) | 12 次 | 下斜方+前锯肌 | 腰椎塌陷 |
-| Band Pull-Apart | ![Pull apart](https://i.imgur.com/voKb6ek.gif) | 15 次 | 后三角+菱形 | 耸肩/借腰 |
-| 俯身肩胛伸展 (Scap Push-up) | ![Scap pushup](https://i.imgur.com/wGP9t7X.gif) | 10–12 次 | 前锯肌 | 肘关节弯曲 |
-| 轻杠前后肩推 | ![空杆推](https://i.imgur.com/baqt4KI.gif) | 2 组 × 10 次 | 全束三角肌 | 抬肩、腰弓 |
+| 墙面 Y-W 滑动 | ![YW](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzBOdCExf-HjLfANMt00D0cF_j52P9X1X7g&s) | 12 次 | 下斜方+前锯肌 | 腰椎塌陷 |
+| Band Pull-Apart | ![Pull apart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNcdfIS1XEAvPu9lw_V_pPYSB6qkR7-kDh6w&s) | 15 次 | 后三角+菱形 | 耸肩/借腰 |
+| 俯身肩胛伸展 (Scap Push-up) | ![Scap pushup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmx0TX4kU_H01OSkB4CODNQouz4_WT-Luow&s) | 10–12 次 | 前锯肌 | 肘关节弯曲 |
 
 > **激活总时长 3–5 min**：无痛区间完成，控制节奏 → 进入正式训练
 
