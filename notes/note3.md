@@ -7,23 +7,28 @@ permalink: /notes/note3/
 
 <!-- 样式 & JS（与练肩笔记相同，复制即可） -->
 
-<!-- ---------- 侧边目录 ---------- -->
 <div id="side-toc">
 <strong>目录</strong>
 <ul>
-  <li><a href="#角色概览">角色概览</a></li>
-  <li><a href="#各地图教学">各地图教学</a>
+
+  <li><a href="#进攻">进攻</a>
     <ul>
-      <li><a href="#ascent">Ascent</a></li>
-      <li><a href="#bind">Bind</a></li>
-      <li><a href="#haven">Haven</a></li>
-      <li><a href="#split">Split</a></li>
-      <li><a href="#lotus">Lotus</a></li>
-      <li><a href="#pearl">Pearl</a></li>
-      <li><a href="#fracture">Fracture</a></li>
-      <li><a href="#icebox">Icebox</a></li>
+      <li><a href="#atk-a">A 区</a></li>
+      <li><a href="#atk-b">B 区</a></li>
+      <li><a href="#atk-mid">中路</a></li>
     </ul>
   </li>
+
+  <li><a href="#防守">防守</a>
+    <ul>
+      <li><a href="#def-a">A 区</a></li>
+      <li><a href="#def-b">B 区</a></li>
+      <li><a href="#def-mid">中路</a></li>
+    </ul>
+  </li>
+
+  <li><a href="#回防">回防</a></li>
+
   <li><a href="#进攻通用建议">进攻通用建议</a></li>
   <li><a href="#防守通用建议">防守通用建议</a></li>
 </ul>
