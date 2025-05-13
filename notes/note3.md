@@ -48,9 +48,9 @@ permalink: /notes/note3/
 ### 💡 A大单向闪
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-A大单向闪-站位.png" width="600"/>
-  <img src="/assets/img/防守A-A大单向闪-瞄点.png" width="600"/>
-  <img src="/assets/img/防守A-A大单向闪-效果.png" width="600"/>
+  <img src="/assets/img/防守A-A大单向闪-站位.png" width="1000"/>
+  <img src="/assets/img/防守A-A大单向闪-瞄点.png" width="1000"/>
+  <img src="/assets/img/防守A-A大单向闪-效果.png" width="1000"/>
 </div>
 
 ---
@@ -58,9 +58,9 @@ permalink: /notes/note3/
 ### 💡 A大反清闪
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-A大反清闪-站位.png" width="500"/>
-  <img src="/assets/img/防守A-A大反清闪-瞄点.png" width="500"/>
-  <img src="/assets/img/防守A-A大反清闪-效果.png" width="500"/>
+  <img src="/assets/img/防守A-A大反清闪-站位.png" width="1200"/>
+  <img src="/assets/img/防守A-A大反清闪-瞄点.png" width="1200"/>
+  <img src="/assets/img/防守A-A大反清闪-效果.png" width="1200"/>
 </div>
 
 ---
@@ -68,9 +68,9 @@ permalink: /notes/note3/
 ### 🗡 A大探测标
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-A大探测标-站位.png" width="800"/>
-  <img src="/assets/img/防守A-A大探测标-瞄点.png" width="800"/>
-  <img src="/assets/img/防守A-A大探测标-效果.png" width="800"/>
+  <img src="/assets/img/防守A-A大探测标-站位.png" width="1500"/>
+  <img src="/assets/img/防守A-A大探测标-瞄点.png" width="1500"/>
+  <img src="/assets/img/防守A-A大探测标-效果.png" width="1500"/>
 </div>
 
 ---
@@ -78,8 +78,8 @@ permalink: /notes/note3/
 ### 🗡 站二楼A大探测标
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-站二楼A大探测标-站位.png" width="300"/>
-  <img src="/assets/img/防守A-站二楼A大探测标-瞄点.png" width="300"/>
-  <img src="/assets/img/防守A-站二楼A大探测标-效果.png" width="300"/>
+  <img src="/assets/img/防守A-站二楼A大探测标-站位.png" width="1800"/>
+  <img src="/assets/img/防守A-站二楼A大探测标-瞄点.png" width="1800"/>
+  <img src="/assets/img/防守A-站二楼A大探测标-效果.png" width="1800"/>
 </div>
 
