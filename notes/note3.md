@@ -68,22 +68,22 @@ body.toc-collapsed .page-content { padding-left: 40px; }
           <li><a href="#rusha-包点combo闪">rushA 包点combo闪</a></li>
           <li><a href="#rusha-包点combo雷">rushA 包点combo雷</a></li>
           <li><a href="#rusha-标">rushA 标</a></li>
-          <li><a href="#二楼combo朝向闪">二楼combo朝向闪</a></li>
+          <li><a href="#二楼combo单向闪">二楼combo朝向闪</a></li>
           <li><a href="#二楼前点探测标">二楼前点探测标</a></li>
           <li><a href="#包点雷">包点雷</a></li>
           <li><a href="#广告牌雷">广告牌雷</a></li>
           <li><a href="#elbow后点标">elbow后点标</a></li>
           <li><a href="#二楼探测标">二楼探测标</a></li>
           <li><a href="#广告牌雷-另一个角度">广告牌雷（另一个角度）</a></li>
-          <li><a href="#二楼开放包点专包雷">二楼开放包点专包雷</a></li>
+          <li><a href="#二楼开放包守包雷">二楼开放包点专包雷</a></li>
         </ul>
       </li>
       <li><a href="#atk-b">B 区</a>
         <ul>
-          <li><a href="#包点后台闪">包点后台闪</a></li>
+          <li><a href="#包点后台闪">包点后闪</a></li>
           <li><a href="#死点雷">死点雷</a></li>
-          <li><a href="#包点安全包看雷">包点安全包看雷</a></li>
-          <li><a href="#包点柱子后台雷">包点柱子后台雷</a></li>
+          <li><a href="#包点安全包看雷">包点安全包雷</a></li>
+          <li><a href="#包点柱子后台雷">包点柱子后雷</a></li>
           <li><a href="#包点探测标2">包点探测标2</a></li>
           <li><a href="#包点探测标">包点探测标</a></li>
           <li><a href="#二楼探测标-b">二楼探测标</a></li>
@@ -111,16 +111,16 @@ body.toc-collapsed .page-content { padding-left: 40px; }
       <li><a href="#def-b">B 区</a>
         <ul>
           <li><a href="#b大反清闪">B 大反清闪</a></li>
-          <li><a href="#b重探测标2">B 重探测标 2（广域）</a></li>
-          <li><a href="#b重探测标">B 重探测标（默认）</a></li>
-          <li><a href="#b重单向闪">B 重单向闪</a></li>
+          <li><a href="#b通探测标2">B 通探测标 2（广域）</a></li>
+          <li><a href="#b通探测标">B 通探测标（默认）</a></li>
+          <li><a href="#b通单向闪">B 通单向闪</a></li>
         </ul>
       </li>
       <li><a href="#def-mid">中路</a>
         <ul>
           <li><a href="#中路探测标">中路探测标</a></li>
-          <li><a href="#二楼反清中路闪b二楼">二楼反清中路闪（B 二楼）</a></li>
-          <li><a href="#二楼反清中路闪走一步调整">二楼反清中路闪（走一步调整）</a></li>
+          <li><a href="#二楼反清中路闪">二楼反清中路闪</a></li>
+          <li><a href="#二楼反清中路闪2">二楼反清中路闪2</a></li>
         </ul>
       </li>
     </ul>
@@ -129,7 +129,7 @@ body.toc-collapsed .page-content { padding-left: 40px; }
     <ul>
       <li><a href="#回防b-安全包雷">回防B-安全包雷</a></li>
       <li><a href="#回防a-elbow标">回防A-elbow标</a></li>
-      <li><a href="#中路夹b箱后安全包雷">中路夹-B箱后安全包雷</a></li>
+      <li><a href="#中路夹b箱后安全包雷">中路夹b-B箱后安全包雷</a></li>
     </ul>
   </li>
   <li><a href="#进攻通用建议">进攻通用建议</a></li>
@@ -183,26 +183,26 @@ document.addEventListener('DOMContentLoaded',function(){
 ### 🗡 rushA 标
 
 **站位**  
-<img src="/assets/img/进攻A-rushA标-站位.png" width="1000"/>
+<img src="/assets/img/进攻A-rushA包点combo标-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻A-rushA标-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻A-rushA包点combo标-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻A-rushA标-效果.png" width="1000"/>
+<img src="/assets/img/进攻A-rushA包点combo标-效果.png" width="1000"/>
 
 ---
 
-### 💡 二楼combo朝向闪
+### 💡 二楼combo单向闪
 
 **站位**  
-<img src="/assets/img/进攻A-二楼combo朝向闪-站位.png" width="1000"/>
+<img src="/assets/img/进攻A-二楼combo单向闪-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻A-二楼combo朝向闪-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻A-二楼combo单向闪-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻A-二楼combo朝向闪-效果.png" width="1000"/>
+<img src="/assets/img/进攻A-二楼combo单向闪-效果.png" width="1000"/>
 
 ---
 
@@ -281,28 +281,28 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 二楼开放包点专包雷
+### 🗡 二楼开放包守包雷
 
 **站位**  
-<img src="/assets/img/进攻A-二楼开放包点专包雷-站位.png" width="1000"/>
+<img src="/assets/img/进攻A-二楼开放包守包雷-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻A-二楼开放包点专包雷-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻A-二楼开放包守包雷-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻A-二楼开放包点专包雷-效果.png" width="1000"/>
+<img src="/assets/img/进攻A-二楼开放包守包雷-效果.png" width="1000"/>
 ## ⚔️ 进攻 B 区 {#atk-b}
 
-### 💡 包点后台闪
+### 💡 包点后闪
 
 **站位**  
-<img src="/assets/img/进攻B-包点后台闪-站位.png" width="1000"/>
+<img src="/assets/img/进攻B-包点后闪-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻B-包点后台闪-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻B-包点后闪-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻B-包点后台闪-效果.png" width="1000"/>
+<img src="/assets/img/进攻B-包点后闪-效果.png" width="1000"/>
 
 ---
 
@@ -319,29 +319,29 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 包点安全包看雷
+### 💣 包点安全包雷
 
 **站位**  
-<img src="/assets/img/进攻B-包点安全包看-站位.png" width="1000"/>
+<img src="/assets/img/进攻B-包点安全包-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻B-包点安全包看-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻B-包点安全包-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻B-包点安全包看-效果.png" width="1000"/>
+<img src="/assets/img/进攻B-包点安全包-效果.png" width="1000"/>
 
 ---
 
-### 💣 包点柱子后台雷
+### 💣 包点柱子后雷
 
 **站位**  
-<img src="/assets/img/进攻B-包点柱子后台-站位.png" width="1000"/>
+<img src="/assets/img/进攻B-包点柱子后-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻B-包点柱子后台-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻B-包点柱子后-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻B-包点柱子后台-效果.png" width="1000"/>
+<img src="/assets/img/进攻B-包点柱子后-效果.png" width="1000"/>
 
 ---
 
@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded',function(){
 <img src="/assets/img/进攻B-b通包守包雷-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻B-b通包守包雷-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻B-b通包守包雷（跳）-瞄点.png" width="1000"/>
 
 **效果**  
 <img src="/assets/img/进攻B-b通包守包雷-效果.png" width="1000"/>
@@ -485,42 +485,42 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 B 重探测标 2（广域）
+### 🗡 B 通探测标 2（广域）
 
 **站位**  
-<img src="/assets/img/防守B-B重探测标2-站位.png" width="1000"/>
+<img src="/assets/img/防守B-B通探测标2-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/防守B-B重探测标2-瞄点.png" width="1000"/>
+<img src="/assets/img/防守B-B通探测标2-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/防守B-B重探测标2-效果.png" width="1000"/>
+<img src="/assets/img/防守B-B通探测标2-效果.png" width="1000"/>
 
 ---
 
-### 🗡 B 重探测标（默认）
+### 🗡 B 重通测标（默认）
 
 **站位**  
-<img src="/assets/img/防守B-B重探测标-站位.png" width="1000"/>
+<img src="/assets/img/防守B-B通探测标-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/防守B-B重探测标-瞄点.png" width="1000"/>
+<img src="/assets/img/防守B-B通探测标-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/防守B-B重探测标-效果.png" width="1000"/>
+<img src="/assets/img/防守B-B通探测标-效果.png" width="1000"/>
 
 ---
 
 ### 💡 B 重单向闪
 
 **站位**  
-<img src="/assets/img/防守B-B重单向闪-站位.png" width="1000"/>
+<img src="/assets/img/防守B-B通单向闪-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/防守B-B重单向闪-瞄点.png" width="1000"/>
+<img src="/assets/img/防守B-B通单向闪-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/防守B-B重单向闪-效果.png" width="1000"/>
+<img src="/assets/img/防守B-B通单向闪-效果.png" width="1000"/>
 ## 🛡️ 防守中路点位 {#def-mid}
 
 ### 🗡 中路探测标
@@ -536,29 +536,29 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💡 二楼反清中路闪（B 二楼）
+### 💡 二楼反清中路闪
 
 **站位**  
 <img src="/assets/img/中路防守-站B二楼反清中路闪-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/中路防守-站B二楼反清中路闪-瞄点.png" width="1000"/>
+<img src="/assets/img/中路防守-站B二楼反清中路闪（走一步）-瞄点.png" width="1000"/>
 
 **效果**  
 <img src="/assets/img/中路防守-站B二楼反清中路闪-效果.png" width="1000"/>
 
 ---
 
-### 💡 二楼反清中路闪（走一步调整）
+### 💡 二楼反清中路闪2
 
 **站位**  
-<img src="/assets/img/中路防守-站B二楼反清中路闪(走一步)-站位.png" width="1000"/>
+<img src="/assets/img/中路防守-站B二楼反清中路闪2-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/中路防守-站B二楼反清中路闪(走一步)-瞄点.png" width="1000"/>
+<img src="/assets/img/中路防守-站B二楼反清中路闪2-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/中路防守-站B二楼反清中路闪(走一步)-效果.png" width="1000"/>
+<img src="/assets/img/中路防守-站B二楼反清中路闪2-效果.png" width="1000"/>
 ### 回防B-安全包雷
 - **站位**  
 <img src="/assets/img/回防B-安全包雷-站位.png" style="max-width:1000px;">
@@ -581,16 +581,16 @@ document.addEventListener('DOMContentLoaded',function(){
 - **效果**  
 <img src="/assets/img/回防A-elbow标-效果.png" style="max-width:1000px;">
 
-### 🟧 中路夹 - B 箱后安全包雷
+### 🟧 中路夹b - B 箱后安全包雷
 
 **站位：**  
-<img src="/assets/img/中路夹-b箱后安全包雷-站位.png" style="max-width:1000px;">
+<img src="/assets/img/中路夹b-b箱后安全包雷-站位.png" style="max-width:1000px;">
 
 **瞄点：**  
-<img src="/assets/img/中路夹-b箱后安全包雷-瞄点.png" style="max-width:1000px;">
+<img src="/assets/img/中路夹b-b箱后安全包雷-瞄点.png" style="max-width:1000px;">
 
 **效果：**  
-<img src="/assets/img/中路夹-b箱后安全包雷-效果.png" style="max-width:1000px;">
+<img src="/assets/img/中路夹b-b箱后安全包雷-效果.png" style="max-width:1000px;">
 
 ---
 
