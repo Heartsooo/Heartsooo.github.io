@@ -298,7 +298,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## ⚔️ 进攻 B 区 {#atk-b}
 
-### 💡 包点后闪
+### 💡 包点后闪 {#包点后闪}
 
 **站位**  
 <img src="/assets/img/进攻B-包点后闪-站位.png" width="1000"/>
@@ -311,7 +311,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 死点雷
+### 💣 死点雷 {#死点雷}
 
 **站位**  
 <img src="/assets/img/进攻B-死点雷-站位.png" width="1000"/>
@@ -324,7 +324,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 包点安全包雷
+### 💣 包点安全包雷 {#包点安全包雷}
 
 **站位**  
 <img src="/assets/img/进攻B-包点安全包雷-站位.png" width="1000"/>
@@ -337,7 +337,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 包点柱子后雷
+### 💣 包点柱子后雷 {#包点柱子后雷}
 
 **站位**  
 <img src="/assets/img/进攻B-包点柱子后雷-站位.png" width="1000"/>
@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 包点探测标2
+### 🗡 包点探测标2 {#包点探测标2}
 
 **站位**  
 <img src="/assets/img/进攻B-包点探测标2-站位.png" width="1000"/>
@@ -363,7 +363,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 包点探测标
+### 🗡 包点探测标 {#包点探测标}
 
 **站位**  
 <img src="/assets/img/进攻B-包点探测标-站位.png" width="1000"/>
@@ -376,7 +376,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 二楼探测标
+### 🗡 二楼探测标 {#二楼探测标-b}
 
 **站位**  
 <img src="/assets/img/进攻B-二楼探测标-站位.png" width="1000"/>
@@ -389,7 +389,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 b通包守包雷
+### 🗡 b通包守包雷 {#b通包守包雷}
 
 **站位**  
 <img src="/assets/img/进攻B-b通包守包雷-站位.png" width="1000"/>
@@ -399,9 +399,10 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/进攻B-b通包守包雷-效果.png" width="1000"/>
+
 ## ⚔️ 进攻中路控制 {#atk-mid}
 
-### 💣 中路箱后雷
+### 💣 中路箱后雷 {#中路箱后雷}
 
 **站位**  
 <img src="/assets/img/进攻中路-中路箱后雷-站位.png" width="1000"/>
@@ -414,7 +415,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 中路探测标
+### 🗡 中路探测标 {#中路探测标}
 
 **站位**  
 <img src="/assets/img/进攻中路-中路探测标-站位.png" width="1000"/>
@@ -424,9 +425,12 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/进攻中路-中路探测标-效果.png" width="1000"/>
+
+---
+
 ## 🛡️ 防守 A 区 {#def-a}
 
-### 🗡 二楼站点探测标
+### 🗡 二楼站点探测标 {#二楼站点探测标}
 
 **站位**  
 <img src="/assets/img/防守A-站二楼A大探测标-站位.png" width="1000"/>
@@ -439,7 +443,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💡 A 大反清闪
+### 💡 A 大反清闪 {#a大反清闪}
 
 **站位**  
 <img src="/assets/img/防守A-A大反清闪-站位.png" width="1000"/>
@@ -452,7 +456,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 A 大探测标
+### 🗡 A 大探测标 {#a大探测标}
 
 **站位**  
 <img src="/assets/img/防守A-A大探测标-站位.png" width="1000"/>
@@ -465,7 +469,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💡 A 大单向闪
+### 💡 A 大单向闪 {#a大单向闪}
 
 **站位**  
 <img src="/assets/img/防守A-A大单向闪-站位.png" width="1000"/>
@@ -475,9 +479,12 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/防守A-A大单向闪-效果.png" width="1000"/>
+
+---
+
 ## 🛡️ 防守 B 区 {#def-b}
 
-### 💡 B 大反清闪
+### 💡 B 大反清闪 {#b大反清闪}
 
 **站位**  
 <img src="/assets/img/防守B-B大反清闪-站位.png" width="1000"/>
@@ -490,7 +497,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 B 通探测标 2（广域）
+### 🗡 B 通探测标 2（广域） {#b通探测标2}
 
 **站位**  
 <img src="/assets/img/防守B-B通探测标2-站位.png" width="1000"/>
@@ -503,7 +510,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 B 重通测标（默认）
+### 🗡 B 通探测标（默认） {#b通探测标}
 
 **站位**  
 <img src="/assets/img/防守B-B通探测标-站位.png" width="1000"/>
@@ -516,7 +523,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💡 B 重单向闪
+### 💡 B 通单向闪 {#b通单向闪}
 
 **站位**  
 <img src="/assets/img/防守B-B通单向闪-站位.png" width="1000"/>
@@ -526,9 +533,12 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/防守B-B通单向闪-效果.png" width="1000"/>
+
+---
+
 ## 🛡️ 防守中路点位 {#def-mid}
 
-### 🗡 中路探测标
+### 🗡 中路探测标 {#中路探测标-防守}
 
 **站位**  
 <img src="/assets/img/防守中路-中路探测标-站位.png" width="1000"/>
@@ -539,9 +549,8 @@ document.addEventListener('DOMContentLoaded',function(){
 **效果**  
 <img src="/assets/img/防守中路-中路探测标-效果.png" width="1000"/>
 
----
 
-### 💡 二楼反清中路闪
+### 💡 二楼反清中路闪 {#二楼反清中路闪}
 
 **站位**  
 <img src="/assets/img/中路防守-站B二楼反清中路闪-站位.png" width="1000"/>
@@ -554,7 +563,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💡 二楼反清中路闪2
+### 💡 二楼反清中路闪2 {#二楼反清中路闪2}
 
 **站位**  
 <img src="/assets/img/中路防守-站B二楼反清中路闪2-站位.png" width="1000"/>
@@ -564,7 +573,11 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/中路防守-站B二楼反清中路闪2-效果.png" width="1000"/>
-### 回防B-安全包雷
+
+---
+
+### 回防B-安全包雷 {#回防b-安全包雷}
+
 - **站位**  
 <img src="/assets/img/回防B-安全包雷-站位.png" style="max-width:1000px;">
 
@@ -576,7 +589,8 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 回防A-elbow标
+### 回防A-elbow标 {#回防a-elbow标}
+
 - **站位**  
 <img src="/assets/img/回防A-elbow标-站位.png" style="max-width:1000px;">
 
@@ -586,7 +600,9 @@ document.addEventListener('DOMContentLoaded',function(){
 - **效果**  
 <img src="/assets/img/回防A-elbow标-效果.png" style="max-width:1000px;">
 
-### 🟧 中路夹b - B 箱后安全包雷
+---
+
+### 🟧 中路夹b - B 箱后安全包雷 {#中路夹b-安全包雷}
 
 **站位：**  
 <img src="/assets/img/中路夹b-b箱后安全包雷-站位.png" style="max-width:1000px;">
@@ -599,7 +615,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🟨 进攻中路 - 中路箱后雷
+### 🟨 进攻中路 - 中路箱后雷 {#中路箱后雷-进攻}
 
 **站位：**  
 <img src="/assets/img/进攻中路-中路箱后雷-站位.png" style="max-width:1000px;">
@@ -612,7 +628,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🟩 进攻中路 - 中路探测标
+### 🟩 进攻中路 - 中路探测标 {#中路探测标-进攻}
 
 **站位：**  
 <img src="/assets/img/进攻中路-中路探测标-站位.png" style="max-width:1000px;">
