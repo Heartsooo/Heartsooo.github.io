@@ -78,7 +78,7 @@ body.toc-collapsed .page-content { padding-left: 40px; }
           <li><a href="#二楼开放包守包雷">二楼开放包点专包雷</a></li>
         </ul>
       </li>
-      <li><a href="#atk-b">B 区</a>
+      <li><a href="#atk-b">B 区</a>    
         <ul>
           <li><a href="#包点后台闪">包点后闪</a></li>
           <li><a href="#死点雷">死点雷</a></li>
@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## ⚔️ 进攻 A 区 {#atk-a}
 
-### 💡 rushA 包点combo闪
+### 💡 rushA 包点combo闪 {#rushA-包点combo闪}
 
 **站位**  
 <img src="/assets/img/进攻A-rushA包点combo闪-站位.png" width="1000"/>
@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 rushA 包点combo雷
+### 💣 rushA 包点combo雷 {#rushA-包点combo雷}
 
 **站位**  
 <img src="/assets/img/进攻A-rushA包点combo雷-站位.png" width="1000"/>
@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 rushA 标
+### 🗡 rushA 标 {#rushA-标}
 
 **站位**  
 <img src="/assets/img/进攻A-rushA包点combo标-站位.png" width="1000"/>
@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💡 二楼combo单向闪
+### 💡 二楼combo单向闪 {#二楼combo单向闪}
 
 **站位**  
 <img src="/assets/img/进攻A-二楼combo单向闪-站位.png" width="1000"/>
@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 二楼前点探测标
+### 🗡 二楼前点探测标 {#二楼前点探测标}
 
 **站位**  
 <img src="/assets/img/进攻A-二楼前点探测标-站位.png" width="1000"/>
@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 包点雷
+### 💣 包点雷 {#包点雷}
 
 **站位**  
 <img src="/assets/img/进攻A-包点雷-站位.png" width="1000"/>
@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 广告牌雷
+### 💣 广告牌雷 {#广告牌雷}
 
 **站位**  
 <img src="/assets/img/进攻A-广告牌雷-站位.png" width="1000"/>
@@ -245,7 +245,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 elbow后点标
+### 💣 elbow后点标 {#elbow后点标}
 
 **站位**  
 <img src="/assets/img/进攻A-elbow后点标-站位.png" width="1000"/>
@@ -255,7 +255,10 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/进攻A-elbow后点标-效果.png" width="1000"/>
-### 💣 二楼探测标
+
+---
+
+### 💣 二楼探测标 {#二楼探测标}
 
 **站位**  
 <img src="/assets/img/进攻A-二楼探测标-站位.png" width="1000"/>
@@ -268,7 +271,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 💣 广告牌雷（另一个角度）
+### 💣 广告牌雷（另一个角度） {#广告牌雷2}
 
 **站位**  
 <img src="/assets/img/进攻A-广告牌雷-站位.png" width="1000"/>
@@ -281,7 +284,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🗡 二楼开放包守包雷
+### 🗡 二楼开放包守包雷 {#二楼开放包守包雷}
 
 **站位**  
 <img src="/assets/img/进攻A-二楼开放包守包雷-站位.png" width="1000"/>
@@ -291,6 +294,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 **效果**  
 <img src="/assets/img/进攻A-二楼开放包守包雷-效果.png" width="1000"/>
+
 ## ⚔️ 进攻 B 区 {#atk-b}
 
 ### 💡 包点后闪
