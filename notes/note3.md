@@ -168,4 +168,330 @@ permalink: /notes/note3/
 
 **效果**  
 <img src="/assets/img/进攻A-二楼开放包点专包雷-效果.png" width="1000"/>
+## ⚔️ 进攻 B 区 {#atk-b}
+
+### 💡 包点后台闪
+
+**站位**  
+<img src="/assets/img/进攻B-包点后台闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-包点后台闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-包点后台闪-效果.png" width="1000"/>
+
+---
+
+### 💣 死点雷
+
+**站位**  
+<img src="/assets/img/进攻B-死点雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-死点雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-死点雷-效果.png" width="1000"/>
+
+---
+
+### 💣 包点安全包看雷
+
+**站位**  
+<img src="/assets/img/进攻B-包点安全包看-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-包点安全包看-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-包点安全包看-效果.png" width="1000"/>
+
+---
+
+### 💣 包点柱子后台雷
+
+**站位**  
+<img src="/assets/img/进攻B-包点柱子后台-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-包点柱子后台-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-包点柱子后台-效果.png" width="1000"/>
+
+---
+
+### 🗡 包点探测标2
+
+**站位**  
+<img src="/assets/img/进攻B-包点探测标2-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-包点探测标2-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-包点探测标2-效果.png" width="1000"/>
+
+---
+
+### 🗡 包点探测标
+
+**站位**  
+<img src="/assets/img/进攻B-包点探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-包点探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-包点探测标-效果.png" width="1000"/>
+
+---
+
+### 🗡 二楼探测标
+
+**站位**  
+<img src="/assets/img/进攻B-二楼探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-二楼探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-二楼探测标-效果.png" width="1000"/>
+
+---
+
+### 🗡 b通包守包雷
+
+**站位**  
+<img src="/assets/img/进攻B-b通包守包雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻B-b通包守包雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻B-b通包守包雷-效果.png" width="1000"/>
+## ⚔️ 进攻中路控制 {#atk-mid}
+
+### 💣 中路箱后雷
+
+**站位**  
+<img src="/assets/img/进攻中路-中路箱后雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻中路-中路箱后雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻中路-中路箱后雷-效果.png" width="1000"/>
+
+---
+
+### 🗡 中路探测标
+
+**站位**  
+<img src="/assets/img/进攻中路-中路探测标-站位.png" width="1000"/>
+
+**瞄点（右侧）**  
+<img src="/assets/img/进攻中路-中路探测标(跳)-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻中路-中路探测标-效果.png" width="1000"/>
+## 🛡️ 防守 A 区 {#def-a}
+
+### 🗡 二楼站点探测标
+
+**站位**  
+<img src="/assets/img/防守A-站二楼A大探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守A-站二楼A大探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守A-站二楼A大探测标-效果.png" width="1000"/>
+
+---
+
+### 💡 A 大反清闪
+
+**站位**  
+<img src="/assets/img/防守A-A大反清闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守A-A大反清闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守A-A大反清闪-效果.png" width="1000"/>
+
+---
+
+### 🗡 A 大探测标
+
+**站位**  
+<img src="/assets/img/防守A-A大探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守A-A大探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守A-A大探测标-效果.png" width="1000"/>
+
+---
+
+### 💡 A 大单向闪
+
+**站位**  
+<img src="/assets/img/防守A-A大单向闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守A-A大单向闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守A-A大单向闪-效果.png" width="1000"/>
+## 🛡️ 防守 B 区 {#def-b}
+
+### 💡 B 大反清闪
+
+**站位**  
+<img src="/assets/img/防守B-B大反清闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守B-B大反清闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守B-B大反清闪-效果.png" width="1000"/>
+
+---
+
+### 🗡 B 重探测标 2（广域）
+
+**站位**  
+<img src="/assets/img/防守B-B重探测标2-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守B-B重探测标2-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守B-B重探测标2-效果.png" width="1000"/>
+
+---
+
+### 🗡 B 重探测标（默认）
+
+**站位**  
+<img src="/assets/img/防守B-B重探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守B-B重探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守B-B重探测标-效果.png" width="1000"/>
+
+---
+
+### 💡 B 重单向闪
+
+**站位**  
+<img src="/assets/img/防守B-B重单向闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守B-B重单向闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守B-B重单向闪-效果.png" width="1000"/>
+## 🛡️ 防守中路点位 {#def-mid}
+
+### 🗡 中路探测标
+
+**站位**  
+<img src="/assets/img/防守中路-中路探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/防守中路-中路探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/防守中路-中路探测标-效果.png" width="1000"/>
+
+---
+
+### 💡 二楼反清中路闪（B 二楼）
+
+**站位**  
+<img src="/assets/img/中路防守-站B二楼反清中路闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/中路防守-站B二楼反清中路闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/中路防守-站B二楼反清中路闪-效果.png" width="1000"/>
+
+---
+
+### 💡 二楼反清中路闪（走一步调整）
+
+**站位**  
+<img src="/assets/img/中路防守-站B二楼反清中路闪(走一步)-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/中路防守-站B二楼反清中路闪(走一步)-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/中路防守-站B二楼反清中路闪(走一步)-效果.png" width="1000"/>
+### 回防B-安全包雷
+- **站位**  
+<img src="/assets/img/回防B-安全包雷-站位.png" style="max-width:1000px;">
+
+- **瞄点**  
+<img src="/assets/img/回防B-安全包雷-瞄点.png" style="max-width:1000px;">
+
+- **效果**  
+<img src="/assets/img/回防B-安全包雷-效果.png" style="max-width:1000px;">
+
+---
+
+### 回防A-elbow标
+- **站位**  
+<img src="/assets/img/回防A-elbow标-站位.png" style="max-width:1000px;">
+
+- **瞄点**  
+<img src="/assets/img/回防A-elbow标-瞄点.png" style="max-width:1000px;">
+
+- **效果**  
+<img src="/assets/img/回防A-elbow标-效果.png" style="max-width:1000px;">
+
+### 🟧 中路夹 - B 箱后安全包雷
+
+**站位：**  
+<img src="/assets/img/中路夹-b箱后安全包雷-站位.png" style="max-width:1000px;">
+
+**瞄点：**  
+<img src="/assets/img/中路夹-b箱后安全包雷-瞄点.png" style="max-width:1000px;">
+
+**效果：**  
+<img src="/assets/img/中路夹-b箱后安全包雷-效果.png" style="max-width:1000px;">
+
+---
+
+### 🟨 进攻中路 - 中路箱后雷
+
+**站位：**  
+<img src="/assets/img/进攻中路-中路箱后雷-站位.png" style="max-width:1000px;">
+
+**瞄点：**  
+<img src="/assets/img/进攻中路-中路箱后雷-瞄点.png" style="max-width:1000px;">
+
+**效果：**  
+<img src="/assets/img/进攻中路-中路箱后雷-效果.png" style="max-width:1000px;">
+
+---
+
+### 🟩 进攻中路 - 中路探测标
+
+**站位：**  
+<img src="/assets/img/进攻中路-中路探测标-站位.png" style="max-width:1000px;">
+
+**瞄点：**  
+<img src="/assets/img/进攻中路-中路探测标(跳)-瞄点.png" style="max-width:1000px;">
+
+**效果：**  
+<img src="/assets/img/进攻中路-中路探测标-效果.png" style="max-width:1000px;">
 
