@@ -88,6 +88,7 @@ body.toc-collapsed .page-content { padding-left: 40px; }
           <li><a href="#包点探测标">包点探测标</a></li>
           <li><a href="#二楼探测标-b">二楼探测标</a></li>
           <li><a href="#b通包守包雷">b通包守包雷</a></li>
+          <li><a href="#中路夹b-安全包雷">中路夹b-B箱后安全包雷</a></li>
         </ul>
       </li>
       <li><a href="#atk-mid">中路</a>
@@ -129,7 +130,6 @@ body.toc-collapsed .page-content { padding-left: 40px; }
     <ul>
       <li><a href="#回防b-安全包雷">回防B-安全包雷</a></li>
       <li><a href="#回防a-elbow标">回防A-elbow标</a></li>
-      <li><a href="#中路夹b-安全包雷">中路夹b-B箱后安全包雷</a></li>
     </ul>
   </li>
 </ul>
@@ -426,6 +426,20 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
+### 🟧 中路夹b - B 箱后安全包雷 {#中路夹b-安全包雷}
+
+**站位：**  
+<img src="/assets/img/中路夹b-b箱后安全包雷-站位.png" style="max-width:1000px;">
+
+**瞄点：**  
+<img src="/assets/img/中路夹b-b箱后安全包雷-瞄点.png" style="max-width:1000px;">
+
+**效果：**  
+<img src="/assets/img/中路夹b-b箱后安全包雷-效果.png" style="max-width:1000px;">
+
+---
+
+
 ## 🛡️ 防守 A 区 {#def-a}
 
 ### 🗡 二楼站点探测标 {#二楼站点探测标}
@@ -600,40 +614,4 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ---
 
-### 🟧 中路夹b - B 箱后安全包雷 {#中路夹b-安全包雷}
-
-**站位：**  
-<img src="/assets/img/中路夹b-b箱后安全包雷-站位.png" style="max-width:1000px;">
-
-**瞄点：**  
-<img src="/assets/img/中路夹b-b箱后安全包雷-瞄点.png" style="max-width:1000px;">
-
-**效果：**  
-<img src="/assets/img/中路夹b-b箱后安全包雷-效果.png" style="max-width:1000px;">
-
----
-
-### 🟨 进攻中路 - 中路箱后雷 {#中路箱后雷-进攻}
-
-**站位：**  
-<img src="/assets/img/进攻中路-中路箱后雷-站位.png" style="max-width:1000px;">
-
-**瞄点：**  
-<img src="/assets/img/进攻中路-中路箱后雷-瞄点.png" style="max-width:1000px;">
-
-**效果：**  
-<img src="/assets/img/进攻中路-中路箱后雷-效果.png" style="max-width:1000px;">
-
----
-
-### 🟩 进攻中路 - 中路探测标 {#中路探测标-进攻}
-
-**站位：**  
-<img src="/assets/img/进攻中路-中路探测标-站位.png" style="max-width:1000px;">
-
-**瞄点：**  
-<img src="/assets/img/进攻中路-中路探测标(跳)-瞄点.png" style="max-width:1000px;">
-
-**效果：**  
-<img src="/assets/img/进攻中路-中路探测标-效果.png" style="max-width:1000px;">
 
