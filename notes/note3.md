@@ -29,57 +29,143 @@ permalink: /notes/note3/
 </ul>
 </div>
 
-# KO 道具点位教学笔记
----
+## ⚔️ 进攻 A 区 {#atk-a}
 
-## 🧠 角色概览 {#角色概览}
+### 💡 rushA 包点combo闪
 
-| 技能键 | 名称 | 核心用途 |
-| :-: | :- | :- |
-| **C** | **断能刀** *ZERO/point* | 侦测 & 抑制；3 s 抑制 + 4 s 亮点；45 s 冷却 |
-| **Q** | **闪光** *FLASH/drive* | 0.6 s 延迟高亮；左键直抛 | 右键反弹；价格 250 |
-| **E** | **抑制脉冲** *FRAG/ment* | 4 s 先蓄 | 2 s 贴地爆；抑制 + 最高 80 伤；CD 40 s |
-| **X** | **过载** *NULL/cmd* | 全图抑制 8 s；自身换弹提速 + 击杀自充；倒地可复活 |
+**站位**  
+<img src="/assets/img/进攻A-rushA包点combo闪-站位.png" width="1000"/>
 
----
+**瞄点**  
+<img src="/assets/img/进攻A-rushA包点combo闪-瞄点.png" width="1000"/>
 
-## 🛡️ 防守 A 区 {#def-a}
-
-### 💡 A大单向闪
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-A大单向闪-站位.png" width="1000"/>
-  <img src="/assets/img/防守A-A大单向闪-瞄点.png" width="1000"/>
-  <img src="/assets/img/防守A-A大单向闪-效果.png" width="1000"/>
-</div>
+**效果**  
+<img src="/assets/img/进攻A-rushA包点combo闪-效果.png" width="1000"/>
 
 ---
 
-### 💡 A大反清闪
+### 💣 rushA 包点combo雷
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-A大反清闪-站位.png" width="1200"/>
-  <img src="/assets/img/防守A-A大反清闪-瞄点.png" width="1200"/>
-  <img src="/assets/img/防守A-A大反清闪-效果.png" width="1200"/>
-</div>
+**站位**  
+<img src="/assets/img/进攻A-rushA包点combo雷-站位.png" width="1000"/>
 
----
+**瞄点**  
+<img src="/assets/img/进攻A-rushA包点combo雷-瞄点.png" width="1000"/>
 
-### 🗡 A大探测标
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-A大探测标-站位.png" width="1500"/>
-  <img src="/assets/img/防守A-A大探测标-瞄点.png" width="1500"/>
-  <img src="/assets/img/防守A-A大探测标-效果.png" width="1500"/>
-</div>
+**效果**  
+<img src="/assets/img/进攻A-rushA包点combo雷-效果.png" width="1000"/>
 
 ---
 
-### 🗡 站二楼A大探测标
+### 🗡 rushA 标
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/assets/img/防守A-站二楼A大探测标-站位.png" width="1800"/>
-  <img src="/assets/img/防守A-站二楼A大探测标-瞄点.png" width="1800"/>
-  <img src="/assets/img/防守A-站二楼A大探测标-效果.png" width="1800"/>
-</div>
+**站位**  
+<img src="/assets/img/进攻A-rushA标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-rushA标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-rushA标-效果.png" width="1000"/>
+
+---
+
+### 💡 二楼combo朝向闪
+
+**站位**  
+<img src="/assets/img/进攻A-二楼combo朝向闪-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-二楼combo朝向闪-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-二楼combo朝向闪-效果.png" width="1000"/>
+
+---
+
+### 🗡 二楼前点探测标
+
+**站位**  
+<img src="/assets/img/进攻A-二楼前点探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-二楼前点探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-二楼前点探测标-效果.png" width="1000"/>
+
+---
+
+### 💣 包点雷
+
+**站位**  
+<img src="/assets/img/进攻A-包点雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-包点雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-包点雷-效果.png" width="1000"/>
+
+---
+
+### 💣 广告牌雷
+
+**站位**  
+<img src="/assets/img/进攻A-广告牌雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-广告牌雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-广告牌雷-效果.png" width="1000"/>
+
+---
+
+### 💣 elbow后点标
+
+**站位**  
+<img src="/assets/img/进攻A-elbow后点标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-elbow后点标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-elbow后点标-效果.png" width="1000"/>
+### 💣 二楼探测标
+
+**站位**  
+<img src="/assets/img/进攻A-二楼探测标-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-二楼探测标-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-二楼探测标-效果.png" width="1000"/>
+
+---
+
+### 💣 广告牌雷（另一个角度）
+
+**站位**  
+<img src="/assets/img/进攻A-广告牌雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-广告牌雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-广告牌雷-效果.png" width="1000"/>
+
+---
+
+### 🗡 二楼开放包点专包雷
+
+**站位**  
+<img src="/assets/img/进攻A-二楼开放包点专包雷-站位.png" width="1000"/>
+
+**瞄点**  
+<img src="/assets/img/进攻A-二楼开放包点专包雷-瞄点.png" width="1000"/>
+
+**效果**  
+<img src="/assets/img/进攻A-二楼开放包点专包雷-效果.png" width="1000"/>
 
