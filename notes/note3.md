@@ -322,26 +322,26 @@ document.addEventListener('DOMContentLoaded',function(){
 ### 💣 包点安全包雷
 
 **站位**  
-<img src="/assets/img/进攻B-包点安全包-站位.png" width="1000"/>
+<img src="/assets/img/进攻B-包点安全包雷-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻B-包点安全包-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻B-包点安全包雷-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻B-包点安全包-效果.png" width="1000"/>
+<img src="/assets/img/进攻B-包点安全包雷-效果.png" width="1000"/>
 
 ---
 
 ### 💣 包点柱子后雷
 
 **站位**  
-<img src="/assets/img/进攻B-包点柱子后-站位.png" width="1000"/>
+<img src="/assets/img/进攻B-包点柱子后雷-站位.png" width="1000"/>
 
 **瞄点**  
-<img src="/assets/img/进攻B-包点柱子后-瞄点.png" width="1000"/>
+<img src="/assets/img/进攻B-包点柱子后雷-瞄点.png" width="1000"/>
 
 **效果**  
-<img src="/assets/img/进攻B-包点柱子后-效果.png" width="1000"/>
+<img src="/assets/img/进攻B-包点柱子后雷-效果.png" width="1000"/>
 
 ---
 
