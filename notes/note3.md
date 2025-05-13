@@ -65,25 +65,25 @@ body.toc-collapsed .page-content { padding-left: 40px; }
     <ul>
       <li><a href="#atk-a">A 区</a>
         <ul>
-          <li><a href="#rusha-包点combo闪">rushA 包点combo闪</a></li>
-          <li><a href="#rusha-包点combo雷">rushA 包点combo雷</a></li>
-          <li><a href="#rusha-标">rushA 标</a></li>
-          <li><a href="#二楼combo单向闪">二楼combo朝向闪</a></li>
+          <li><a href="#rushA-包点combo闪">rushA 包点combo闪</a></li>
+          <li><a href="#rushA-包点combo雷">rushA 包点combo雷</a></li>
+          <li><a href="#rushA-标">rushA 标</a></li>
+          <li><a href="#二楼combo单向闪">二楼combo单向闪</a></li>
           <li><a href="#二楼前点探测标">二楼前点探测标</a></li>
           <li><a href="#包点雷">包点雷</a></li>
           <li><a href="#广告牌雷">广告牌雷</a></li>
           <li><a href="#elbow后点标">elbow后点标</a></li>
           <li><a href="#二楼探测标">二楼探测标</a></li>
-          <li><a href="#广告牌雷-另一个角度">广告牌雷（另一个角度）</a></li>
+          <li><a href="#广告牌雷2">广告牌雷（另一个角度）</a></li>
           <li><a href="#二楼开放包守包雷">二楼开放包点专包雷</a></li>
         </ul>
       </li>
-      <li><a href="#atk-b">B 区</a>    
+      <li><a href="#atk-b">B 区</a>
         <ul>
-          <li><a href="#包点后台闪">包点后闪</a></li>
+          <li><a href="#包点后闪">包点后闪</a></li>
           <li><a href="#死点雷">死点雷</a></li>
-          <li><a href="#包点安全包看雷">包点安全包雷</a></li>
-          <li><a href="#包点柱子后台雷">包点柱子后雷</a></li>
+          <li><a href="#包点安全包雷">包点安全包雷</a></li>
+          <li><a href="#包点柱子后雷">包点柱子后雷</a></li>
           <li><a href="#包点探测标2">包点探测标2</a></li>
           <li><a href="#包点探测标">包点探测标</a></li>
           <li><a href="#二楼探测标-b">二楼探测标</a></li>
@@ -129,13 +129,14 @@ body.toc-collapsed .page-content { padding-left: 40px; }
     <ul>
       <li><a href="#回防b-安全包雷">回防B-安全包雷</a></li>
       <li><a href="#回防a-elbow标">回防A-elbow标</a></li>
-      <li><a href="#中路夹b箱后安全包雷">中路夹b-B箱后安全包雷</a></li>
+      <li><a href="#中路夹b-安全包雷">中路夹b-B箱后安全包雷</a></li>
     </ul>
   </li>
   <li><a href="#进攻通用建议">进攻通用建议</a></li>
   <li><a href="#防守通用建议">防守通用建议</a></li>
 </ul>
 </div>
+
 
 <!-- ---------- JS 目录切换 ---------- -->
 <script>
