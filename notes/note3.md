@@ -132,8 +132,6 @@ body.toc-collapsed .page-content { padding-left: 40px; }
       <li><a href="#中路夹b-安全包雷">中路夹b-B箱后安全包雷</a></li>
     </ul>
   </li>
-  <li><a href="#进攻通用建议">进攻通用建议</a></li>
-  <li><a href="#防守通用建议">防守通用建议</a></li>
 </ul>
 </div>
 
